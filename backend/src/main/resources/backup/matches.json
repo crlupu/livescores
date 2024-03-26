@@ -1,0 +1,3413 @@
+{
+    "data": [
+        {
+            "id": 891367118,
+            "round": "Regular Season - 1",
+            "date": "2023-08-04T19:00:00.000Z",
+            "country": {
+                "code": "GB-ENG",
+                "name": "England",
+                "logo": "https://highlightly.net/soccer/images/countries/GB-ENG.svg"
+            },
+            "state": {
+                "clock": 90,
+                "score": {
+                    "current": "1 - 2",
+                    "penalties": null
+                },
+                "description": "Finished"
+            },
+            "awayTeam": {
+                "id": 35675,
+                "logo": "https://highlightly.net/soccer/images/teams/35675.png",
+                "name": "Southampton"
+            },
+            "homeTeam": {
+                "id": 63758,
+                "logo": "https://highlightly.net/soccer/images/teams/63758.png",
+                "name": "Sheffield Wednesday"
+            },
+            "league": {
+                "id": 34824,
+                "logo": "https://highlightly.net/soccer/images/leagues/34824.png",
+                "name": "Championship",
+                "season": 2023
+            }
+        },
+        {
+            "id": 891367969,
+            "round": "Regular Season - 1",
+            "date": "2023-08-05T14:00:00.000Z",
+            "country": {
+                "code": "GB-ENG",
+                "name": "England",
+                "logo": "https://highlightly.net/soccer/images/countries/GB-ENG.svg"
+            },
+            "state": {
+                "clock": 90,
+                "score": {
+                    "current": "2 - 1",
+                    "penalties": null
+                },
+                "description": "Finished"
+            },
+            "awayTeam": {
+                "id": 51844,
+                "logo": "https://highlightly.net/soccer/images/teams/51844.png",
+                "name": "West Brom"
+            },
+            "homeTeam": {
+                "id": 57801,
+                "logo": "https://highlightly.net/soccer/images/teams/57801.png",
+                "name": "Blackburn"
+            },
+            "league": {
+                "id": 34824,
+                "logo": "https://highlightly.net/soccer/images/leagues/34824.png",
+                "name": "Championship",
+                "season": 2023
+            }
+        },
+        {
+            "id": 891368820,
+            "round": "Regular Season - 1",
+            "date": "2023-08-05T14:00:00.000Z",
+            "country": {
+                "code": "GB-ENG",
+                "name": "England",
+                "logo": "https://highlightly.net/soccer/images/countries/GB-ENG.svg"
+            },
+            "state": {
+                "clock": 90,
+                "score": {
+                    "current": "1 - 1",
+                    "penalties": null
+                },
+                "description": "Finished"
+            },
+            "awayTeam": {
+                "id": 50993,
+                "logo": "https://highlightly.net/soccer/images/teams/50993.png",
+                "name": "Preston"
+            },
+            "homeTeam": {
+                "id": 48440,
+                "logo": "https://highlightly.net/soccer/images/teams/48440.png",
+                "name": "Bristol City"
+            },
+            "league": {
+                "id": 34824,
+                "logo": "https://highlightly.net/soccer/images/leagues/34824.png",
+                "name": "Championship",
+                "season": 2023
+            }
+        },
+        {
+            "id": 891369671,
+            "round": "Regular Season - 1",
+            "date": "2023-08-05T14:00:00.000Z",
+            "country": {
+                "code": "GB-ENG",
+                "name": "England",
+                "logo": "https://highlightly.net/soccer/images/countries/GB-ENG.svg"
+            },
+            "state": {
+                "clock": 90,
+                "score": {
+                    "current": "0 - 1",
+                    "penalties": null
+                },
+                "description": "Finished"
+            },
+            "awayTeam": {
+                "id": 50142,
+                "logo": "https://highlightly.net/soccer/images/teams/50142.png",
+                "name": "Millwall"
+            },
+            "homeTeam": {
+                "id": 60354,
+                "logo": "https://highlightly.net/soccer/images/teams/60354.png",
+                "name": "Middlesbrough"
+            },
+            "league": {
+                "id": 34824,
+                "logo": "https://highlightly.net/soccer/images/leagues/34824.png",
+                "name": "Championship",
+                "season": 2023
+            }
+        },
+        {
+            "id": 891370522,
+            "round": "Regular Season - 1",
+            "date": "2023-08-05T14:00:00.000Z",
+            "country": {
+                "code": "GB-ENG",
+                "name": "England",
+                "logo": "https://highlightly.net/soccer/images/countries/GB-ENG.svg"
+            },
+            "state": {
+                "clock": 90,
+                "score": {
+                    "current": "2 - 1",
+                    "penalties": null
+                },
+                "description": "Finished"
+            },
+            "awayTeam": {
+                "id": 55248,
+                "logo": "https://highlightly.net/soccer/images/teams/55248.png",
+                "name": "Hull City"
+            },
+            "homeTeam": {
+                "id": 61205,
+                "logo": "https://highlightly.net/soccer/images/teams/61205.png",
+                "name": "Norwich"
+            },
+            "league": {
+                "id": 34824,
+                "logo": "https://highlightly.net/soccer/images/leagues/34824.png",
+                "name": "Championship",
+                "season": 2023
+            }
+        },
+        {
+            "id": 891371373,
+            "round": "Regular Season - 1",
+            "date": "2023-08-05T14:00:00.000Z",
+            "country": {
+                "code": "GB-ENG",
+                "name": "England",
+                "logo": "https://highlightly.net/soccer/images/countries/GB-ENG.svg"
+            },
+            "state": {
+                "clock": 90,
+                "score": {
+                    "current": "3 - 1",
+                    "penalties": null
+                },
+                "description": "Finished"
+            },
+            "awayTeam": {
+                "id": 32271,
+                "logo": "https://highlightly.net/soccer/images/teams/32271.png",
+                "name": "Huddersfield"
+            },
+            "homeTeam": {
+                "id": 1155591,
+                "logo": "https://highlightly.net/soccer/images/teams/1155591.png",
+                "name": "Plymouth"
+            },
+            "league": {
+                "id": 34824,
+                "logo": "https://highlightly.net/soccer/images/leagues/34824.png",
+                "name": "Championship",
+                "season": 2023
+            }
+        },
+        {
+            "id": 891372224,
+            "round": "Regular Season - 1",
+            "date": "2023-08-05T14:00:00.000Z",
+            "country": {
+                "code": "GB-ENG",
+                "name": "England",
+                "logo": "https://highlightly.net/soccer/images/countries/GB-ENG.svg"
+            },
+            "state": {
+                "clock": 90,
+                "score": {
+                    "current": "4 - 1",
+                    "penalties": null
+                },
+                "description": "Finished"
+            },
+            "awayTeam": {
+                "id": 62907,
+                "logo": "https://highlightly.net/soccer/images/teams/62907.png",
+                "name": "Rotherham"
+            },
+            "homeTeam": {
+                "id": 64609,
+                "logo": "https://highlightly.net/soccer/images/teams/64609.png",
+                "name": "Stoke City"
+            },
+            "league": {
+                "id": 34824,
+                "logo": "https://highlightly.net/soccer/images/leagues/34824.png",
+                "name": "Championship",
+                "season": 2023
+            }
+        },
+        {
+            "id": 891373075,
+            "round": "Regular Season - 1",
+            "date": "2023-08-05T14:00:00.000Z",
+            "country": {
+                "code": "GB-ENG",
+                "name": "England",
+                "logo": "https://highlightly.net/soccer/images/countries/GB-ENG.svg"
+            },
+            "state": {
+                "clock": 90,
+                "score": {
+                    "current": "1 - 1",
+                    "penalties": null
+                },
+                "description": "Finished"
+            },
+            "awayTeam": {
+                "id": 46738,
+                "logo": "https://highlightly.net/soccer/images/teams/46738.png",
+                "name": "Birmingham"
+            },
+            "homeTeam": {
+                "id": 65460,
+                "logo": "https://highlightly.net/soccer/images/teams/65460.png",
+                "name": "Swansea"
+            },
+            "league": {
+                "id": 34824,
+                "logo": "https://highlightly.net/soccer/images/leagues/34824.png",
+                "name": "Championship",
+                "season": 2023
+            }
+        },
+        {
+            "id": 891373926,
+            "round": "Regular Season - 1",
+            "date": "2023-08-05T14:00:00.000Z",
+            "country": {
+                "code": "GB-ENG",
+                "name": "England",
+                "logo": "https://highlightly.net/soccer/images/countries/GB-ENG.svg"
+            },
+            "state": {
+                "clock": 90,
+                "score": {
+                    "current": "4 - 0",
+                    "penalties": null
+                },
+                "description": "Finished"
+            },
+            "awayTeam": {
+                "id": 62056,
+                "logo": "https://highlightly.net/soccer/images/teams/62056.png",
+                "name": "QPR"
+            },
+            "homeTeam": {
+                "id": 33122,
+                "logo": "https://highlightly.net/soccer/images/teams/33122.png",
+                "name": "Watford"
+            },
+            "league": {
+                "id": 34824,
+                "logo": "https://highlightly.net/soccer/images/leagues/34824.png",
+                "name": "Championship",
+                "season": 2023
+            }
+        },
+        {
+            "id": 891374777,
+            "round": "Regular Season - 1",
+            "date": "2023-08-06T11:00:00.000Z",
+            "country": {
+                "code": "GB-ENG",
+                "name": "England",
+                "logo": "https://highlightly.net/soccer/images/countries/GB-ENG.svg"
+            },
+            "state": {
+                "clock": 90,
+                "score": {
+                    "current": "2 - 1",
+                    "penalties": null
+                },
+                "description": "Finished"
+            },
+            "awayTeam": {
+                "id": 1146230,
+                "logo": "https://highlightly.net/soccer/images/teams/1146230.png",
+                "name": "Coventry"
+            },
+            "homeTeam": {
+                "id": 39930,
+                "logo": "https://highlightly.net/soccer/images/teams/39930.png",
+                "name": "Leicester"
+            },
+            "league": {
+                "id": 34824,
+                "logo": "https://highlightly.net/soccer/images/leagues/34824.png",
+                "name": "Championship",
+                "season": 2023
+            }
+        },
+        {
+            "id": 891375628,
+            "round": "Regular Season - 1",
+            "date": "2023-08-06T13:30:00.000Z",
+            "country": {
+                "code": "GB-ENG",
+                "name": "England",
+                "logo": "https://highlightly.net/soccer/images/countries/GB-ENG.svg"
+            },
+            "state": {
+                "clock": 90,
+                "score": {
+                    "current": "2 - 2",
+                    "penalties": null
+                },
+                "description": "Finished"
+            },
+            "awayTeam": {
+                "id": 37377,
+                "logo": "https://highlightly.net/soccer/images/teams/37377.png",
+                "name": "Cardiff"
+            },
+            "homeTeam": {
+                "id": 54397,
+                "logo": "https://highlightly.net/soccer/images/teams/54397.png",
+                "name": "Leeds"
+            },
+            "league": {
+                "id": 34824,
+                "logo": "https://highlightly.net/soccer/images/leagues/34824.png",
+                "name": "Championship",
+                "season": 2023
+            }
+        },
+        {
+            "id": 891376479,
+            "round": "Regular Season - 1",
+            "date": "2023-08-06T16:00:00.000Z",
+            "country": {
+                "code": "GB-ENG",
+                "name": "England",
+                "logo": "https://highlightly.net/soccer/images/countries/GB-ENG.svg"
+            },
+            "state": {
+                "clock": 90,
+                "score": {
+                    "current": "1 - 2",
+                    "penalties": null
+                },
+                "description": "Finished"
+            },
+            "awayTeam": {
+                "id": 49291,
+                "logo": "https://highlightly.net/soccer/images/teams/49291.png",
+                "name": "Ipswich"
+            },
+            "homeTeam": {
+                "id": 635630,
+                "logo": "https://highlightly.net/soccer/images/teams/635630.png",
+                "name": "Sunderland"
+            },
+            "league": {
+                "id": 34824,
+                "logo": "https://highlightly.net/soccer/images/leagues/34824.png",
+                "name": "Championship",
+                "season": 2023
+            }
+        },
+        {
+            "id": 891377330,
+            "round": "Regular Season - 2",
+            "date": "2023-08-12T11:30:00.000Z",
+            "country": {
+                "code": "GB-ENG",
+                "name": "England",
+                "logo": "https://highlightly.net/soccer/images/countries/GB-ENG.svg"
+            },
+            "state": {
+                "clock": 90,
+                "score": {
+                    "current": "3 - 0",
+                    "penalties": null
+                },
+                "description": "Finished"
+            },
+            "awayTeam": {
+                "id": 60354,
+                "logo": "https://highlightly.net/soccer/images/teams/60354.png",
+                "name": "Middlesbrough"
+            },
+            "homeTeam": {
+                "id": 1146230,
+                "logo": "https://highlightly.net/soccer/images/teams/1146230.png",
+                "name": "Coventry"
+            },
+            "league": {
+                "id": 34824,
+                "logo": "https://highlightly.net/soccer/images/leagues/34824.png",
+                "name": "Championship",
+                "season": 2023
+            }
+        },
+        {
+            "id": 891378181,
+            "round": "Regular Season - 2",
+            "date": "2023-08-12T14:00:00.000Z",
+            "country": {
+                "code": "GB-ENG",
+                "name": "England",
+                "logo": "https://highlightly.net/soccer/images/countries/GB-ENG.svg"
+            },
+            "state": {
+                "clock": 90,
+                "score": {
+                    "current": "1 - 0",
+                    "penalties": null
+                },
+                "description": "Finished"
+            },
+            "awayTeam": {
+                "id": 54397,
+                "logo": "https://highlightly.net/soccer/images/teams/54397.png",
+                "name": "Leeds"
+            },
+            "homeTeam": {
+                "id": 46738,
+                "logo": "https://highlightly.net/soccer/images/teams/46738.png",
+                "name": "Birmingham"
+            },
+            "league": {
+                "id": 34824,
+                "logo": "https://highlightly.net/soccer/images/leagues/34824.png",
+                "name": "Championship",
+                "season": 2023
+            }
+        },
+        {
+            "id": 891379032,
+            "round": "Regular Season - 2",
+            "date": "2023-08-12T14:00:00.000Z",
+            "country": {
+                "code": "GB-ENG",
+                "name": "England",
+                "logo": "https://highlightly.net/soccer/images/countries/GB-ENG.svg"
+            },
+            "state": {
+                "clock": 90,
+                "score": {
+                    "current": "1 - 2",
+                    "penalties": null
+                },
+                "description": "Finished"
+            },
+            "awayTeam": {
+                "id": 62056,
+                "logo": "https://highlightly.net/soccer/images/teams/62056.png",
+                "name": "QPR"
+            },
+            "homeTeam": {
+                "id": 37377,
+                "logo": "https://highlightly.net/soccer/images/teams/37377.png",
+                "name": "Cardiff"
+            },
+            "league": {
+                "id": 34824,
+                "logo": "https://highlightly.net/soccer/images/leagues/34824.png",
+                "name": "Championship",
+                "season": 2023
+            }
+        },
+        {
+            "id": 891379883,
+            "round": "Regular Season - 2",
+            "date": "2023-08-12T14:00:00.000Z",
+            "country": {
+                "code": "GB-ENG",
+                "name": "England",
+                "logo": "https://highlightly.net/soccer/images/countries/GB-ENG.svg"
+            },
+            "state": {
+                "clock": 90,
+                "score": {
+                    "current": "0 - 1",
+                    "penalties": null
+                },
+                "description": "Finished"
+            },
+            "awayTeam": {
+                "id": 39930,
+                "logo": "https://highlightly.net/soccer/images/teams/39930.png",
+                "name": "Leicester"
+            },
+            "homeTeam": {
+                "id": 32271,
+                "logo": "https://highlightly.net/soccer/images/teams/32271.png",
+                "name": "Huddersfield"
+            },
+            "league": {
+                "id": 34824,
+                "logo": "https://highlightly.net/soccer/images/leagues/34824.png",
+                "name": "Championship",
+                "season": 2023
+            }
+        },
+        {
+            "id": 891380734,
+            "round": "Regular Season - 2",
+            "date": "2023-08-12T14:00:00.000Z",
+            "country": {
+                "code": "GB-ENG",
+                "name": "England",
+                "logo": "https://highlightly.net/soccer/images/countries/GB-ENG.svg"
+            },
+            "state": {
+                "clock": 90,
+                "score": {
+                    "current": "4 - 2",
+                    "penalties": null
+                },
+                "description": "Finished"
+            },
+            "awayTeam": {
+                "id": 63758,
+                "logo": "https://highlightly.net/soccer/images/teams/63758.png",
+                "name": "Sheffield Wednesday"
+            },
+            "homeTeam": {
+                "id": 55248,
+                "logo": "https://highlightly.net/soccer/images/teams/55248.png",
+                "name": "Hull City"
+            },
+            "league": {
+                "id": 34824,
+                "logo": "https://highlightly.net/soccer/images/leagues/34824.png",
+                "name": "Championship",
+                "season": 2023
+            }
+        },
+        {
+            "id": 891381585,
+            "round": "Regular Season - 2",
+            "date": "2023-08-12T14:00:00.000Z",
+            "country": {
+                "code": "GB-ENG",
+                "name": "England",
+                "logo": "https://highlightly.net/soccer/images/countries/GB-ENG.svg"
+            },
+            "state": {
+                "clock": 90,
+                "score": {
+                    "current": "2 - 0",
+                    "penalties": null
+                },
+                "description": "Finished"
+            },
+            "awayTeam": {
+                "id": 64609,
+                "logo": "https://highlightly.net/soccer/images/teams/64609.png",
+                "name": "Stoke City"
+            },
+            "homeTeam": {
+                "id": 49291,
+                "logo": "https://highlightly.net/soccer/images/teams/49291.png",
+                "name": "Ipswich"
+            },
+            "league": {
+                "id": 34824,
+                "logo": "https://highlightly.net/soccer/images/leagues/34824.png",
+                "name": "Championship",
+                "season": 2023
+            }
+        },
+        {
+            "id": 891382436,
+            "round": "Regular Season - 2",
+            "date": "2023-08-12T14:00:00.000Z",
+            "country": {
+                "code": "GB-ENG",
+                "name": "England",
+                "logo": "https://highlightly.net/soccer/images/countries/GB-ENG.svg"
+            },
+            "state": {
+                "clock": 90,
+                "score": {
+                    "current": "0 - 1",
+                    "penalties": null
+                },
+                "description": "Finished"
+            },
+            "awayTeam": {
+                "id": 48440,
+                "logo": "https://highlightly.net/soccer/images/teams/48440.png",
+                "name": "Bristol City"
+            },
+            "homeTeam": {
+                "id": 50142,
+                "logo": "https://highlightly.net/soccer/images/teams/50142.png",
+                "name": "Millwall"
+            },
+            "league": {
+                "id": 34824,
+                "logo": "https://highlightly.net/soccer/images/leagues/34824.png",
+                "name": "Championship",
+                "season": 2023
+            }
+        },
+        {
+            "id": 891383287,
+            "round": "Regular Season - 2",
+            "date": "2023-08-12T14:00:00.000Z",
+            "country": {
+                "code": "GB-ENG",
+                "name": "England",
+                "logo": "https://highlightly.net/soccer/images/countries/GB-ENG.svg"
+            },
+            "state": {
+                "clock": 90,
+                "score": {
+                    "current": "2 - 1",
+                    "penalties": null
+                },
+                "description": "Finished"
+            },
+            "awayTeam": {
+                "id": 635630,
+                "logo": "https://highlightly.net/soccer/images/teams/635630.png",
+                "name": "Sunderland"
+            },
+            "homeTeam": {
+                "id": 50993,
+                "logo": "https://highlightly.net/soccer/images/teams/50993.png",
+                "name": "Preston"
+            },
+            "league": {
+                "id": 34824,
+                "logo": "https://highlightly.net/soccer/images/leagues/34824.png",
+                "name": "Championship",
+                "season": 2023
+            }
+        },
+        {
+            "id": 891384138,
+            "round": "Regular Season - 2",
+            "date": "2023-08-12T14:00:00.000Z",
+            "country": {
+                "code": "GB-ENG",
+                "name": "England",
+                "logo": "https://highlightly.net/soccer/images/countries/GB-ENG.svg"
+            },
+            "state": {
+                "clock": 90,
+                "score": {
+                    "current": "2 - 2",
+                    "penalties": null
+                },
+                "description": "Finished"
+            },
+            "awayTeam": {
+                "id": 57801,
+                "logo": "https://highlightly.net/soccer/images/teams/57801.png",
+                "name": "Blackburn"
+            },
+            "homeTeam": {
+                "id": 62907,
+                "logo": "https://highlightly.net/soccer/images/teams/62907.png",
+                "name": "Rotherham"
+            },
+            "league": {
+                "id": 34824,
+                "logo": "https://highlightly.net/soccer/images/leagues/34824.png",
+                "name": "Championship",
+                "season": 2023
+            }
+        },
+        {
+            "id": 891384989,
+            "round": "Regular Season - 2",
+            "date": "2023-08-12T14:00:00.000Z",
+            "country": {
+                "code": "GB-ENG",
+                "name": "England",
+                "logo": "https://highlightly.net/soccer/images/countries/GB-ENG.svg"
+            },
+            "state": {
+                "clock": 90,
+                "score": {
+                    "current": "4 - 4",
+                    "penalties": null
+                },
+                "description": "Finished"
+            },
+            "awayTeam": {
+                "id": 61205,
+                "logo": "https://highlightly.net/soccer/images/teams/61205.png",
+                "name": "Norwich"
+            },
+            "homeTeam": {
+                "id": 35675,
+                "logo": "https://highlightly.net/soccer/images/teams/35675.png",
+                "name": "Southampton"
+            },
+            "league": {
+                "id": 34824,
+                "logo": "https://highlightly.net/soccer/images/leagues/34824.png",
+                "name": "Championship",
+                "season": 2023
+            }
+        },
+        {
+            "id": 891385840,
+            "round": "Regular Season - 2",
+            "date": "2023-08-12T14:00:00.000Z",
+            "country": {
+                "code": "GB-ENG",
+                "name": "England",
+                "logo": "https://highlightly.net/soccer/images/countries/GB-ENG.svg"
+            },
+            "state": {
+                "clock": 90,
+                "score": {
+                    "current": "0 - 0",
+                    "penalties": null
+                },
+                "description": "Finished"
+            },
+            "awayTeam": {
+                "id": 1155591,
+                "logo": "https://highlightly.net/soccer/images/teams/1155591.png",
+                "name": "Plymouth"
+            },
+            "homeTeam": {
+                "id": 33122,
+                "logo": "https://highlightly.net/soccer/images/teams/33122.png",
+                "name": "Watford"
+            },
+            "league": {
+                "id": 34824,
+                "logo": "https://highlightly.net/soccer/images/leagues/34824.png",
+                "name": "Championship",
+                "season": 2023
+            }
+        },
+        {
+            "id": 891386691,
+            "round": "Regular Season - 2",
+            "date": "2023-08-12T14:00:00.000Z",
+            "country": {
+                "code": "GB-ENG",
+                "name": "England",
+                "logo": "https://highlightly.net/soccer/images/countries/GB-ENG.svg"
+            },
+            "state": {
+                "clock": 90,
+                "score": {
+                    "current": "3 - 2",
+                    "penalties": null
+                },
+                "description": "Finished"
+            },
+            "awayTeam": {
+                "id": 65460,
+                "logo": "https://highlightly.net/soccer/images/teams/65460.png",
+                "name": "Swansea"
+            },
+            "homeTeam": {
+                "id": 51844,
+                "logo": "https://highlightly.net/soccer/images/teams/51844.png",
+                "name": "West Brom"
+            },
+            "league": {
+                "id": 34824,
+                "logo": "https://highlightly.net/soccer/images/leagues/34824.png",
+                "name": "Championship",
+                "season": 2023
+            }
+        },
+        {
+            "id": 891387542,
+            "round": "Regular Season - 3",
+            "date": "2023-08-18T19:00:00.000Z",
+            "country": {
+                "code": "GB-ENG",
+                "name": "England",
+                "logo": "https://highlightly.net/soccer/images/countries/GB-ENG.svg"
+            },
+            "state": {
+                "clock": 90,
+                "score": {
+                    "current": "1 - 1",
+                    "penalties": null
+                },
+                "description": "Finished"
+            },
+            "awayTeam": {
+                "id": 51844,
+                "logo": "https://highlightly.net/soccer/images/teams/51844.png",
+                "name": "West Brom"
+            },
+            "homeTeam": {
+                "id": 54397,
+                "logo": "https://highlightly.net/soccer/images/teams/54397.png",
+                "name": "Leeds"
+            },
+            "league": {
+                "id": 34824,
+                "logo": "https://highlightly.net/soccer/images/leagues/34824.png",
+                "name": "Championship",
+                "season": 2023
+            }
+        },
+        {
+            "id": 891388393,
+            "round": "Regular Season - 3",
+            "date": "2023-08-19T11:30:00.000Z",
+            "country": {
+                "code": "GB-ENG",
+                "name": "England",
+                "logo": "https://highlightly.net/soccer/images/countries/GB-ENG.svg"
+            },
+            "state": {
+                "clock": 90,
+                "score": {
+                    "current": "1 - 2",
+                    "penalties": null
+                },
+                "description": "Finished"
+            },
+            "awayTeam": {
+                "id": 35675,
+                "logo": "https://highlightly.net/soccer/images/teams/35675.png",
+                "name": "Southampton"
+            },
+            "homeTeam": {
+                "id": 1155591,
+                "logo": "https://highlightly.net/soccer/images/teams/1155591.png",
+                "name": "Plymouth"
+            },
+            "league": {
+                "id": 34824,
+                "logo": "https://highlightly.net/soccer/images/leagues/34824.png",
+                "name": "Championship",
+                "season": 2023
+            }
+        },
+        {
+            "id": 891389244,
+            "round": "Regular Season - 3",
+            "date": "2023-08-19T14:00:00.000Z",
+            "country": {
+                "code": "GB-ENG",
+                "name": "England",
+                "logo": "https://highlightly.net/soccer/images/countries/GB-ENG.svg"
+            },
+            "state": {
+                "clock": 90,
+                "score": {
+                    "current": "1 - 2",
+                    "penalties": null
+                },
+                "description": "Finished"
+            },
+            "awayTeam": {
+                "id": 55248,
+                "logo": "https://highlightly.net/soccer/images/teams/55248.png",
+                "name": "Hull City"
+            },
+            "homeTeam": {
+                "id": 57801,
+                "logo": "https://highlightly.net/soccer/images/teams/57801.png",
+                "name": "Blackburn"
+            },
+            "league": {
+                "id": 34824,
+                "logo": "https://highlightly.net/soccer/images/leagues/34824.png",
+                "name": "Championship",
+                "season": 2023
+            }
+        },
+        {
+            "id": 891390095,
+            "round": "Regular Season - 3",
+            "date": "2023-08-19T14:00:00.000Z",
+            "country": {
+                "code": "GB-ENG",
+                "name": "England",
+                "logo": "https://highlightly.net/soccer/images/countries/GB-ENG.svg"
+            },
+            "state": {
+                "clock": 90,
+                "score": {
+                    "current": "0 - 2",
+                    "penalties": null
+                },
+                "description": "Finished"
+            },
+            "awayTeam": {
+                "id": 46738,
+                "logo": "https://highlightly.net/soccer/images/teams/46738.png",
+                "name": "Birmingham"
+            },
+            "homeTeam": {
+                "id": 48440,
+                "logo": "https://highlightly.net/soccer/images/teams/48440.png",
+                "name": "Bristol City"
+            },
+            "league": {
+                "id": 34824,
+                "logo": "https://highlightly.net/soccer/images/leagues/34824.png",
+                "name": "Championship",
+                "season": 2023
+            }
+        },
+        {
+            "id": 891390946,
+            "round": "Regular Season - 3",
+            "date": "2023-08-19T14:00:00.000Z",
+            "country": {
+                "code": "GB-ENG",
+                "name": "England",
+                "logo": "https://highlightly.net/soccer/images/countries/GB-ENG.svg"
+            },
+            "state": {
+                "clock": 90,
+                "score": {
+                    "current": "2 - 1",
+                    "penalties": null
+                },
+                "description": "Finished"
+            },
+            "awayTeam": {
+                "id": 37377,
+                "logo": "https://highlightly.net/soccer/images/teams/37377.png",
+                "name": "Cardiff"
+            },
+            "homeTeam": {
+                "id": 39930,
+                "logo": "https://highlightly.net/soccer/images/teams/39930.png",
+                "name": "Leicester"
+            },
+            "league": {
+                "id": 34824,
+                "logo": "https://highlightly.net/soccer/images/leagues/34824.png",
+                "name": "Championship",
+                "season": 2023
+            }
+        },
+        {
+            "id": 891391797,
+            "round": "Regular Season - 3",
+            "date": "2023-08-19T14:00:00.000Z",
+            "country": {
+                "code": "GB-ENG",
+                "name": "England",
+                "logo": "https://highlightly.net/soccer/images/countries/GB-ENG.svg"
+            },
+            "state": {
+                "clock": 90,
+                "score": {
+                    "current": "1 - 1",
+                    "penalties": null
+                },
+                "description": "Finished"
+            },
+            "awayTeam": {
+                "id": 32271,
+                "logo": "https://highlightly.net/soccer/images/teams/32271.png",
+                "name": "Huddersfield"
+            },
+            "homeTeam": {
+                "id": 60354,
+                "logo": "https://highlightly.net/soccer/images/teams/60354.png",
+                "name": "Middlesbrough"
+            },
+            "league": {
+                "id": 34824,
+                "logo": "https://highlightly.net/soccer/images/leagues/34824.png",
+                "name": "Championship",
+                "season": 2023
+            }
+        },
+        {
+            "id": 891392648,
+            "round": "Regular Season - 3",
+            "date": "2023-08-19T14:00:00.000Z",
+            "country": {
+                "code": "GB-ENG",
+                "name": "England",
+                "logo": "https://highlightly.net/soccer/images/countries/GB-ENG.svg"
+            },
+            "state": {
+                "clock": 90,
+                "score": {
+                    "current": "0 - 1",
+                    "penalties": null
+                },
+                "description": "Finished"
+            },
+            "awayTeam": {
+                "id": 49291,
+                "logo": "https://highlightly.net/soccer/images/teams/49291.png",
+                "name": "Ipswich"
+            },
+            "homeTeam": {
+                "id": 62056,
+                "logo": "https://highlightly.net/soccer/images/teams/62056.png",
+                "name": "QPR"
+            },
+            "league": {
+                "id": 34824,
+                "logo": "https://highlightly.net/soccer/images/leagues/34824.png",
+                "name": "Championship",
+                "season": 2023
+            }
+        },
+        {
+            "id": 891393499,
+            "round": "Regular Season - 3",
+            "date": "2023-08-19T14:00:00.000Z",
+            "country": {
+                "code": "GB-ENG",
+                "name": "England",
+                "logo": "https://highlightly.net/soccer/images/countries/GB-ENG.svg"
+            },
+            "state": {
+                "clock": 90,
+                "score": {
+                    "current": "0 - 1",
+                    "penalties": null
+                },
+                "description": "Finished"
+            },
+            "awayTeam": {
+                "id": 50993,
+                "logo": "https://highlightly.net/soccer/images/teams/50993.png",
+                "name": "Preston"
+            },
+            "homeTeam": {
+                "id": 63758,
+                "logo": "https://highlightly.net/soccer/images/teams/63758.png",
+                "name": "Sheffield Wednesday"
+            },
+            "league": {
+                "id": 34824,
+                "logo": "https://highlightly.net/soccer/images/leagues/34824.png",
+                "name": "Championship",
+                "season": 2023
+            }
+        },
+        {
+            "id": 891394350,
+            "round": "Regular Season - 3",
+            "date": "2023-08-19T14:00:00.000Z",
+            "country": {
+                "code": "GB-ENG",
+                "name": "England",
+                "logo": "https://highlightly.net/soccer/images/countries/GB-ENG.svg"
+            },
+            "state": {
+                "clock": 90,
+                "score": {
+                    "current": "1 - 0",
+                    "penalties": null
+                },
+                "description": "Finished"
+            },
+            "awayTeam": {
+                "id": 33122,
+                "logo": "https://highlightly.net/soccer/images/teams/33122.png",
+                "name": "Watford"
+            },
+            "homeTeam": {
+                "id": 64609,
+                "logo": "https://highlightly.net/soccer/images/teams/64609.png",
+                "name": "Stoke City"
+            },
+            "league": {
+                "id": 34824,
+                "logo": "https://highlightly.net/soccer/images/leagues/34824.png",
+                "name": "Championship",
+                "season": 2023
+            }
+        },
+        {
+            "id": 891395201,
+            "round": "Regular Season - 3",
+            "date": "2023-08-19T14:00:00.000Z",
+            "country": {
+                "code": "GB-ENG",
+                "name": "England",
+                "logo": "https://highlightly.net/soccer/images/countries/GB-ENG.svg"
+            },
+            "state": {
+                "clock": 90,
+                "score": {
+                    "current": "2 - 1",
+                    "penalties": null
+                },
+                "description": "Finished"
+            },
+            "awayTeam": {
+                "id": 62907,
+                "logo": "https://highlightly.net/soccer/images/teams/62907.png",
+                "name": "Rotherham"
+            },
+            "homeTeam": {
+                "id": 635630,
+                "logo": "https://highlightly.net/soccer/images/teams/635630.png",
+                "name": "Sunderland"
+            },
+            "league": {
+                "id": 34824,
+                "logo": "https://highlightly.net/soccer/images/leagues/34824.png",
+                "name": "Championship",
+                "season": 2023
+            }
+        },
+        {
+            "id": 891396052,
+            "round": "Regular Season - 3",
+            "date": "2023-08-19T14:00:00.000Z",
+            "country": {
+                "code": "GB-ENG",
+                "name": "England",
+                "logo": "https://highlightly.net/soccer/images/countries/GB-ENG.svg"
+            },
+            "state": {
+                "clock": 90,
+                "score": {
+                    "current": "1 - 1",
+                    "penalties": null
+                },
+                "description": "Finished"
+            },
+            "awayTeam": {
+                "id": 1146230,
+                "logo": "https://highlightly.net/soccer/images/teams/1146230.png",
+                "name": "Coventry"
+            },
+            "homeTeam": {
+                "id": 65460,
+                "logo": "https://highlightly.net/soccer/images/teams/65460.png",
+                "name": "Swansea"
+            },
+            "league": {
+                "id": 34824,
+                "logo": "https://highlightly.net/soccer/images/leagues/34824.png",
+                "name": "Championship",
+                "season": 2023
+            }
+        },
+        {
+            "id": 891396903,
+            "round": "Regular Season - 3",
+            "date": "2023-08-20T11:00:00.000Z",
+            "country": {
+                "code": "GB-ENG",
+                "name": "England",
+                "logo": "https://highlightly.net/soccer/images/countries/GB-ENG.svg"
+            },
+            "state": {
+                "clock": 90,
+                "score": {
+                    "current": "3 - 1",
+                    "penalties": null
+                },
+                "description": "Finished"
+            },
+            "awayTeam": {
+                "id": 50142,
+                "logo": "https://highlightly.net/soccer/images/teams/50142.png",
+                "name": "Millwall"
+            },
+            "homeTeam": {
+                "id": 61205,
+                "logo": "https://highlightly.net/soccer/images/teams/61205.png",
+                "name": "Norwich"
+            },
+            "league": {
+                "id": 34824,
+                "logo": "https://highlightly.net/soccer/images/leagues/34824.png",
+                "name": "Championship",
+                "season": 2023
+            }
+        },
+        {
+            "id": 891397754,
+            "round": "Regular Season - 4",
+            "date": "2023-08-25T18:30:00.000Z",
+            "country": {
+                "code": "GB-ENG",
+                "name": "England",
+                "logo": "https://highlightly.net/soccer/images/countries/GB-ENG.svg"
+            },
+            "state": {
+                "clock": 90,
+                "score": {
+                    "current": "1 - 1",
+                    "penalties": null
+                },
+                "description": "Finished"
+            },
+            "awayTeam": {
+                "id": 48440,
+                "logo": "https://highlightly.net/soccer/images/teams/48440.png",
+                "name": "Bristol City"
+            },
+            "homeTeam": {
+                "id": 55248,
+                "logo": "https://highlightly.net/soccer/images/teams/55248.png",
+                "name": "Hull City"
+            },
+            "league": {
+                "id": 34824,
+                "logo": "https://highlightly.net/soccer/images/leagues/34824.png",
+                "name": "Championship",
+                "season": 2023
+            }
+        },
+        {
+            "id": 891398605,
+            "round": "Regular Season - 4",
+            "date": "2023-08-26T14:00:00.000Z",
+            "country": {
+                "code": "GB-ENG",
+                "name": "England",
+                "logo": "https://highlightly.net/soccer/images/countries/GB-ENG.svg"
+            },
+            "state": {
+                "clock": 90,
+                "score": {
+                    "current": "2 - 1",
+                    "penalties": null
+                },
+                "description": "Finished"
+            },
+            "awayTeam": {
+                "id": 1155591,
+                "logo": "https://highlightly.net/soccer/images/teams/1155591.png",
+                "name": "Plymouth"
+            },
+            "homeTeam": {
+                "id": 46738,
+                "logo": "https://highlightly.net/soccer/images/teams/46738.png",
+                "name": "Birmingham"
+            },
+            "league": {
+                "id": 34824,
+                "logo": "https://highlightly.net/soccer/images/leagues/34824.png",
+                "name": "Championship",
+                "season": 2023
+            }
+        },
+        {
+            "id": 891399456,
+            "round": "Regular Season - 4",
+            "date": "2023-08-26T14:00:00.000Z",
+            "country": {
+                "code": "GB-ENG",
+                "name": "England",
+                "logo": "https://highlightly.net/soccer/images/countries/GB-ENG.svg"
+            },
+            "state": {
+                "clock": 90,
+                "score": {
+                    "current": "2 - 1",
+                    "penalties": null
+                },
+                "description": "Finished"
+            },
+            "awayTeam": {
+                "id": 63758,
+                "logo": "https://highlightly.net/soccer/images/teams/63758.png",
+                "name": "Sheffield Wednesday"
+            },
+            "homeTeam": {
+                "id": 37377,
+                "logo": "https://highlightly.net/soccer/images/teams/37377.png",
+                "name": "Cardiff"
+            },
+            "league": {
+                "id": 34824,
+                "logo": "https://highlightly.net/soccer/images/leagues/34824.png",
+                "name": "Championship",
+                "season": 2023
+            }
+        },
+        {
+            "id": 891400307,
+            "round": "Regular Season - 4",
+            "date": "2023-08-26T14:00:00.000Z",
+            "country": {
+                "code": "GB-ENG",
+                "name": "England",
+                "logo": "https://highlightly.net/soccer/images/countries/GB-ENG.svg"
+            },
+            "state": {
+                "clock": 90,
+                "score": {
+                    "current": "0 - 0",
+                    "penalties": null
+                },
+                "description": "Finished"
+            },
+            "awayTeam": {
+                "id": 635630,
+                "logo": "https://highlightly.net/soccer/images/teams/635630.png",
+                "name": "Sunderland"
+            },
+            "homeTeam": {
+                "id": 1146230,
+                "logo": "https://highlightly.net/soccer/images/teams/1146230.png",
+                "name": "Coventry"
+            },
+            "league": {
+                "id": 34824,
+                "logo": "https://highlightly.net/soccer/images/leagues/34824.png",
+                "name": "Championship",
+                "season": 2023
+            }
+        },
+        {
+            "id": 891401158,
+            "round": "Regular Season - 4",
+            "date": "2023-08-26T14:00:00.000Z",
+            "country": {
+                "code": "GB-ENG",
+                "name": "England",
+                "logo": "https://highlightly.net/soccer/images/countries/GB-ENG.svg"
+            },
+            "state": {
+                "clock": 90,
+                "score": {
+                    "current": "0 - 4",
+                    "penalties": null
+                },
+                "description": "Finished"
+            },
+            "awayTeam": {
+                "id": 61205,
+                "logo": "https://highlightly.net/soccer/images/teams/61205.png",
+                "name": "Norwich"
+            },
+            "homeTeam": {
+                "id": 32271,
+                "logo": "https://highlightly.net/soccer/images/teams/32271.png",
+                "name": "Huddersfield"
+            },
+            "league": {
+                "id": 34824,
+                "logo": "https://highlightly.net/soccer/images/leagues/34824.png",
+                "name": "Championship",
+                "season": 2023
+            }
+        },
+        {
+            "id": 891402009,
+            "round": "Regular Season - 4",
+            "date": "2023-08-26T14:00:00.000Z",
+            "country": {
+                "code": "GB-ENG",
+                "name": "England",
+                "logo": "https://highlightly.net/soccer/images/countries/GB-ENG.svg"
+            },
+            "state": {
+                "clock": 90,
+                "score": {
+                    "current": "3 - 4",
+                    "penalties": null
+                },
+                "description": "Finished"
+            },
+            "awayTeam": {
+                "id": 54397,
+                "logo": "https://highlightly.net/soccer/images/teams/54397.png",
+                "name": "Leeds"
+            },
+            "homeTeam": {
+                "id": 49291,
+                "logo": "https://highlightly.net/soccer/images/teams/49291.png",
+                "name": "Ipswich"
+            },
+            "league": {
+                "id": 34824,
+                "logo": "https://highlightly.net/soccer/images/leagues/34824.png",
+                "name": "Championship",
+                "season": 2023
+            }
+        },
+        {
+            "id": 891402860,
+            "round": "Regular Season - 4",
+            "date": "2023-08-26T14:00:00.000Z",
+            "country": {
+                "code": "GB-ENG",
+                "name": "England",
+                "logo": "https://highlightly.net/soccer/images/countries/GB-ENG.svg"
+            },
+            "state": {
+                "clock": 90,
+                "score": {
+                    "current": "1 - 0",
+                    "penalties": null
+                },
+                "description": "Finished"
+            },
+            "awayTeam": {
+                "id": 64609,
+                "logo": "https://highlightly.net/soccer/images/teams/64609.png",
+                "name": "Stoke City"
+            },
+            "homeTeam": {
+                "id": 50142,
+                "logo": "https://highlightly.net/soccer/images/teams/50142.png",
+                "name": "Millwall"
+            },
+            "league": {
+                "id": 34824,
+                "logo": "https://highlightly.net/soccer/images/leagues/34824.png",
+                "name": "Championship",
+                "season": 2023
+            }
+        },
+        {
+            "id": 891403711,
+            "round": "Regular Season - 4",
+            "date": "2023-08-26T14:00:00.000Z",
+            "country": {
+                "code": "GB-ENG",
+                "name": "England",
+                "logo": "https://highlightly.net/soccer/images/countries/GB-ENG.svg"
+            },
+            "state": {
+                "clock": 90,
+                "score": {
+                    "current": "2 - 1",
+                    "penalties": null
+                },
+                "description": "Finished"
+            },
+            "awayTeam": {
+                "id": 65460,
+                "logo": "https://highlightly.net/soccer/images/teams/65460.png",
+                "name": "Swansea"
+            },
+            "homeTeam": {
+                "id": 50993,
+                "logo": "https://highlightly.net/soccer/images/teams/50993.png",
+                "name": "Preston"
+            },
+            "league": {
+                "id": 34824,
+                "logo": "https://highlightly.net/soccer/images/leagues/34824.png",
+                "name": "Championship",
+                "season": 2023
+            }
+        },
+        {
+            "id": 891404562,
+            "round": "Regular Season - 4",
+            "date": "2023-08-26T14:00:00.000Z",
+            "country": {
+                "code": "GB-ENG",
+                "name": "England",
+                "logo": "https://highlightly.net/soccer/images/countries/GB-ENG.svg"
+            },
+            "state": {
+                "clock": 90,
+                "score": {
+                    "current": "1 - 2",
+                    "penalties": null
+                },
+                "description": "Finished"
+            },
+            "awayTeam": {
+                "id": 39930,
+                "logo": "https://highlightly.net/soccer/images/teams/39930.png",
+                "name": "Leicester"
+            },
+            "homeTeam": {
+                "id": 62907,
+                "logo": "https://highlightly.net/soccer/images/teams/62907.png",
+                "name": "Rotherham"
+            },
+            "league": {
+                "id": 34824,
+                "logo": "https://highlightly.net/soccer/images/leagues/34824.png",
+                "name": "Championship",
+                "season": 2023
+            }
+        },
+        {
+            "id": 891405413,
+            "round": "Regular Season - 4",
+            "date": "2023-08-26T14:00:00.000Z",
+            "country": {
+                "code": "GB-ENG",
+                "name": "England",
+                "logo": "https://highlightly.net/soccer/images/countries/GB-ENG.svg"
+            },
+            "state": {
+                "clock": 90,
+                "score": {
+                    "current": "2 - 1",
+                    "penalties": null
+                },
+                "description": "Finished"
+            },
+            "awayTeam": {
+                "id": 62056,
+                "logo": "https://highlightly.net/soccer/images/teams/62056.png",
+                "name": "QPR"
+            },
+            "homeTeam": {
+                "id": 35675,
+                "logo": "https://highlightly.net/soccer/images/teams/35675.png",
+                "name": "Southampton"
+            },
+            "league": {
+                "id": 34824,
+                "logo": "https://highlightly.net/soccer/images/leagues/34824.png",
+                "name": "Championship",
+                "season": 2023
+            }
+        },
+        {
+            "id": 891406264,
+            "round": "Regular Season - 4",
+            "date": "2023-08-27T11:00:00.000Z",
+            "country": {
+                "code": "GB-ENG",
+                "name": "England",
+                "logo": "https://highlightly.net/soccer/images/countries/GB-ENG.svg"
+            },
+            "state": {
+                "clock": 90,
+                "score": {
+                    "current": "0 - 1",
+                    "penalties": null
+                },
+                "description": "Finished"
+            },
+            "awayTeam": {
+                "id": 57801,
+                "logo": "https://highlightly.net/soccer/images/teams/57801.png",
+                "name": "Blackburn"
+            },
+            "homeTeam": {
+                "id": 33122,
+                "logo": "https://highlightly.net/soccer/images/teams/33122.png",
+                "name": "Watford"
+            },
+            "league": {
+                "id": 34824,
+                "logo": "https://highlightly.net/soccer/images/leagues/34824.png",
+                "name": "Championship",
+                "season": 2023
+            }
+        },
+        {
+            "id": 891407115,
+            "round": "Regular Season - 4",
+            "date": "2023-08-26T14:00:00.000Z",
+            "country": {
+                "code": "GB-ENG",
+                "name": "England",
+                "logo": "https://highlightly.net/soccer/images/countries/GB-ENG.svg"
+            },
+            "state": {
+                "clock": 90,
+                "score": {
+                    "current": "4 - 2",
+                    "penalties": null
+                },
+                "description": "Finished"
+            },
+            "awayTeam": {
+                "id": 60354,
+                "logo": "https://highlightly.net/soccer/images/teams/60354.png",
+                "name": "Middlesbrough"
+            },
+            "homeTeam": {
+                "id": 51844,
+                "logo": "https://highlightly.net/soccer/images/teams/51844.png",
+                "name": "West Brom"
+            },
+            "league": {
+                "id": 34824,
+                "logo": "https://highlightly.net/soccer/images/leagues/34824.png",
+                "name": "Championship",
+                "season": 2023
+            }
+        },
+        {
+            "id": 891407966,
+            "round": "Regular Season - 5",
+            "date": "2023-09-02T11:30:00.000Z",
+            "country": {
+                "code": "GB-ENG",
+                "name": "England",
+                "logo": "https://highlightly.net/soccer/images/countries/GB-ENG.svg"
+            },
+            "state": {
+                "clock": 90,
+                "score": {
+                    "current": "1 - 1",
+                    "penalties": null
+                },
+                "description": "Finished"
+            },
+            "awayTeam": {
+                "id": 50142,
+                "logo": "https://highlightly.net/soccer/images/teams/50142.png",
+                "name": "Millwall"
+            },
+            "homeTeam": {
+                "id": 46738,
+                "logo": "https://highlightly.net/soccer/images/teams/46738.png",
+                "name": "Birmingham"
+            },
+            "league": {
+                "id": 34824,
+                "logo": "https://highlightly.net/soccer/images/leagues/34824.png",
+                "name": "Championship",
+                "season": 2023
+            }
+        },
+        {
+            "id": 891408817,
+            "round": "Regular Season - 5",
+            "date": "2023-09-02T14:00:00.000Z",
+            "country": {
+                "code": "GB-ENG",
+                "name": "England",
+                "logo": "https://highlightly.net/soccer/images/countries/GB-ENG.svg"
+            },
+            "state": {
+                "clock": 90,
+                "score": {
+                    "current": "3 - 3",
+                    "penalties": null
+                },
+                "description": "Finished"
+            },
+            "awayTeam": {
+                "id": 33122,
+                "logo": "https://highlightly.net/soccer/images/teams/33122.png",
+                "name": "Watford"
+            },
+            "homeTeam": {
+                "id": 1146230,
+                "logo": "https://highlightly.net/soccer/images/teams/1146230.png",
+                "name": "Coventry"
+            },
+            "league": {
+                "id": 34824,
+                "logo": "https://highlightly.net/soccer/images/leagues/34824.png",
+                "name": "Championship",
+                "season": 2023
+            }
+        },
+        {
+            "id": 891409668,
+            "round": "Regular Season - 5",
+            "date": "2023-09-02T14:00:00.000Z",
+            "country": {
+                "code": "GB-ENG",
+                "name": "England",
+                "logo": "https://highlightly.net/soccer/images/countries/GB-ENG.svg"
+            },
+            "state": {
+                "clock": 90,
+                "score": {
+                    "current": "3 - 2",
+                    "penalties": null
+                },
+                "description": "Finished"
+            },
+            "awayTeam": {
+                "id": 37377,
+                "logo": "https://highlightly.net/soccer/images/teams/37377.png",
+                "name": "Cardiff"
+            },
+            "homeTeam": {
+                "id": 49291,
+                "logo": "https://highlightly.net/soccer/images/teams/49291.png",
+                "name": "Ipswich"
+            },
+            "league": {
+                "id": 34824,
+                "logo": "https://highlightly.net/soccer/images/leagues/34824.png",
+                "name": "Championship",
+                "season": 2023
+            }
+        },
+        {
+            "id": 891410519,
+            "round": "Regular Season - 5",
+            "date": "2023-09-02T14:00:00.000Z",
+            "country": {
+                "code": "GB-ENG",
+                "name": "England",
+                "logo": "https://highlightly.net/soccer/images/countries/GB-ENG.svg"
+            },
+            "state": {
+                "clock": 90,
+                "score": {
+                    "current": "0 - 0",
+                    "penalties": null
+                },
+                "description": "Finished"
+            },
+            "awayTeam": {
+                "id": 63758,
+                "logo": "https://highlightly.net/soccer/images/teams/63758.png",
+                "name": "Sheffield Wednesday"
+            },
+            "homeTeam": {
+                "id": 54397,
+                "logo": "https://highlightly.net/soccer/images/teams/54397.png",
+                "name": "Leeds"
+            },
+            "league": {
+                "id": 34824,
+                "logo": "https://highlightly.net/soccer/images/leagues/34824.png",
+                "name": "Championship",
+                "season": 2023
+            }
+        },
+        {
+            "id": 891411370,
+            "round": "Regular Season - 5",
+            "date": "2023-09-02T14:00:00.000Z",
+            "country": {
+                "code": "GB-ENG",
+                "name": "England",
+                "logo": "https://highlightly.net/soccer/images/countries/GB-ENG.svg"
+            },
+            "state": {
+                "clock": 90,
+                "score": {
+                    "current": "0 - 1",
+                    "penalties": null
+                },
+                "description": "Finished"
+            },
+            "awayTeam": {
+                "id": 55248,
+                "logo": "https://highlightly.net/soccer/images/teams/55248.png",
+                "name": "Hull City"
+            },
+            "homeTeam": {
+                "id": 39930,
+                "logo": "https://highlightly.net/soccer/images/teams/39930.png",
+                "name": "Leicester"
+            },
+            "league": {
+                "id": 34824,
+                "logo": "https://highlightly.net/soccer/images/leagues/34824.png",
+                "name": "Championship",
+                "season": 2023
+            }
+        },
+        {
+            "id": 891412221,
+            "round": "Regular Season - 5",
+            "date": "2023-09-02T14:00:00.000Z",
+            "country": {
+                "code": "GB-ENG",
+                "name": "England",
+                "logo": "https://highlightly.net/soccer/images/countries/GB-ENG.svg"
+            },
+            "state": {
+                "clock": 90,
+                "score": {
+                    "current": "0 - 2",
+                    "penalties": null
+                },
+                "description": "Finished"
+            },
+            "awayTeam": {
+                "id": 62056,
+                "logo": "https://highlightly.net/soccer/images/teams/62056.png",
+                "name": "QPR"
+            },
+            "homeTeam": {
+                "id": 60354,
+                "logo": "https://highlightly.net/soccer/images/teams/60354.png",
+                "name": "Middlesbrough"
+            },
+            "league": {
+                "id": 34824,
+                "logo": "https://highlightly.net/soccer/images/leagues/34824.png",
+                "name": "Championship",
+                "season": 2023
+            }
+        },
+        {
+            "id": 891413072,
+            "round": "Regular Season - 5",
+            "date": "2023-09-02T14:00:00.000Z",
+            "country": {
+                "code": "GB-ENG",
+                "name": "England",
+                "logo": "https://highlightly.net/soccer/images/countries/GB-ENG.svg"
+            },
+            "state": {
+                "clock": 90,
+                "score": {
+                    "current": "3 - 0",
+                    "penalties": null
+                },
+                "description": "Finished"
+            },
+            "awayTeam": {
+                "id": 57801,
+                "logo": "https://highlightly.net/soccer/images/teams/57801.png",
+                "name": "Blackburn"
+            },
+            "homeTeam": {
+                "id": 1155591,
+                "logo": "https://highlightly.net/soccer/images/teams/1155591.png",
+                "name": "Plymouth"
+            },
+            "league": {
+                "id": 34824,
+                "logo": "https://highlightly.net/soccer/images/leagues/34824.png",
+                "name": "Championship",
+                "season": 2023
+            }
+        },
+        {
+            "id": 891413923,
+            "round": "Regular Season - 5",
+            "date": "2023-09-02T14:00:00.000Z",
+            "country": {
+                "code": "GB-ENG",
+                "name": "England",
+                "logo": "https://highlightly.net/soccer/images/countries/GB-ENG.svg"
+            },
+            "state": {
+                "clock": 90,
+                "score": {
+                    "current": "2 - 1",
+                    "penalties": null
+                },
+                "description": "Finished"
+            },
+            "awayTeam": {
+                "id": 61205,
+                "logo": "https://highlightly.net/soccer/images/teams/61205.png",
+                "name": "Norwich"
+            },
+            "homeTeam": {
+                "id": 62907,
+                "logo": "https://highlightly.net/soccer/images/teams/62907.png",
+                "name": "Rotherham"
+            },
+            "league": {
+                "id": 34824,
+                "logo": "https://highlightly.net/soccer/images/leagues/34824.png",
+                "name": "Championship",
+                "season": 2023
+            }
+        },
+        {
+            "id": 891414774,
+            "round": "Regular Season - 5",
+            "date": "2023-09-02T14:00:00.000Z",
+            "country": {
+                "code": "GB-ENG",
+                "name": "England",
+                "logo": "https://highlightly.net/soccer/images/countries/GB-ENG.svg"
+            },
+            "state": {
+                "clock": 90,
+                "score": {
+                    "current": "0 - 2",
+                    "penalties": null
+                },
+                "description": "Finished"
+            },
+            "awayTeam": {
+                "id": 50993,
+                "logo": "https://highlightly.net/soccer/images/teams/50993.png",
+                "name": "Preston"
+            },
+            "homeTeam": {
+                "id": 64609,
+                "logo": "https://highlightly.net/soccer/images/teams/64609.png",
+                "name": "Stoke City"
+            },
+            "league": {
+                "id": 34824,
+                "logo": "https://highlightly.net/soccer/images/leagues/34824.png",
+                "name": "Championship",
+                "season": 2023
+            }
+        },
+        {
+            "id": 891415625,
+            "round": "Regular Season - 5",
+            "date": "2023-09-02T11:30:00.000Z",
+            "country": {
+                "code": "GB-ENG",
+                "name": "England",
+                "logo": "https://highlightly.net/soccer/images/countries/GB-ENG.svg"
+            },
+            "state": {
+                "clock": 90,
+                "score": {
+                    "current": "5 - 0",
+                    "penalties": null
+                },
+                "description": "Finished"
+            },
+            "awayTeam": {
+                "id": 35675,
+                "logo": "https://highlightly.net/soccer/images/teams/35675.png",
+                "name": "Southampton"
+            },
+            "homeTeam": {
+                "id": 635630,
+                "logo": "https://highlightly.net/soccer/images/teams/635630.png",
+                "name": "Sunderland"
+            },
+            "league": {
+                "id": 34824,
+                "logo": "https://highlightly.net/soccer/images/leagues/34824.png",
+                "name": "Championship",
+                "season": 2023
+            }
+        },
+        {
+            "id": 891416476,
+            "round": "Regular Season - 5",
+            "date": "2023-09-02T11:30:00.000Z",
+            "country": {
+                "code": "GB-ENG",
+                "name": "England",
+                "logo": "https://highlightly.net/soccer/images/countries/GB-ENG.svg"
+            },
+            "state": {
+                "clock": 90,
+                "score": {
+                    "current": "1 - 2",
+                    "penalties": null
+                },
+                "description": "Finished"
+            },
+            "awayTeam": {
+                "id": 48440,
+                "logo": "https://highlightly.net/soccer/images/teams/48440.png",
+                "name": "Bristol City"
+            },
+            "homeTeam": {
+                "id": 65460,
+                "logo": "https://highlightly.net/soccer/images/teams/65460.png",
+                "name": "Swansea"
+            },
+            "league": {
+                "id": 34824,
+                "logo": "https://highlightly.net/soccer/images/leagues/34824.png",
+                "name": "Championship",
+                "season": 2023
+            }
+        },
+        {
+            "id": 891417327,
+            "round": "Regular Season - 5",
+            "date": "2023-09-02T14:00:00.000Z",
+            "country": {
+                "code": "GB-ENG",
+                "name": "England",
+                "logo": "https://highlightly.net/soccer/images/countries/GB-ENG.svg"
+            },
+            "state": {
+                "clock": 90,
+                "score": {
+                    "current": "1 - 2",
+                    "penalties": null
+                },
+                "description": "Finished"
+            },
+            "awayTeam": {
+                "id": 32271,
+                "logo": "https://highlightly.net/soccer/images/teams/32271.png",
+                "name": "Huddersfield"
+            },
+            "homeTeam": {
+                "id": 51844,
+                "logo": "https://highlightly.net/soccer/images/teams/51844.png",
+                "name": "West Brom"
+            },
+            "league": {
+                "id": 34824,
+                "logo": "https://highlightly.net/soccer/images/leagues/34824.png",
+                "name": "Championship",
+                "season": 2023
+            }
+        },
+        {
+            "id": 891418178,
+            "round": "Regular Season - 6",
+            "date": "2023-09-15T18:45:00.000Z",
+            "country": {
+                "code": "GB-ENG",
+                "name": "England",
+                "logo": "https://highlightly.net/soccer/images/countries/GB-ENG.svg"
+            },
+            "state": {
+                "clock": 90,
+                "score": {
+                    "current": "1 - 1",
+                    "penalties": null
+                },
+                "description": "Finished"
+            },
+            "awayTeam": {
+                "id": 1146230,
+                "logo": "https://highlightly.net/soccer/images/teams/1146230.png",
+                "name": "Coventry"
+            },
+            "homeTeam": {
+                "id": 55248,
+                "logo": "https://highlightly.net/soccer/images/teams/55248.png",
+                "name": "Hull City"
+            },
+            "league": {
+                "id": 34824,
+                "logo": "https://highlightly.net/soccer/images/leagues/34824.png",
+                "name": "Championship",
+                "season": 2023
+            }
+        },
+        {
+            "id": 891419029,
+            "round": "Regular Season - 6",
+            "date": "2023-09-16T14:00:00.000Z",
+            "country": {
+                "code": "GB-ENG",
+                "name": "England",
+                "logo": "https://highlightly.net/soccer/images/countries/GB-ENG.svg"
+            },
+            "state": {
+                "clock": 90,
+                "score": {
+                    "current": "2 - 1",
+                    "penalties": null
+                },
+                "description": "Finished"
+            },
+            "awayTeam": {
+                "id": 60354,
+                "logo": "https://highlightly.net/soccer/images/teams/60354.png",
+                "name": "Middlesbrough"
+            },
+            "homeTeam": {
+                "id": 57801,
+                "logo": "https://highlightly.net/soccer/images/teams/57801.png",
+                "name": "Blackburn"
+            },
+            "league": {
+                "id": 34824,
+                "logo": "https://highlightly.net/soccer/images/leagues/34824.png",
+                "name": "Championship",
+                "season": 2023
+            }
+        },
+        {
+            "id": 891419880,
+            "round": "Regular Season - 6",
+            "date": "2023-09-16T14:00:00.000Z",
+            "country": {
+                "code": "GB-ENG",
+                "name": "England",
+                "logo": "https://highlightly.net/soccer/images/countries/GB-ENG.svg"
+            },
+            "state": {
+                "clock": 90,
+                "score": {
+                    "current": "0 - 0",
+                    "penalties": null
+                },
+                "description": "Finished"
+            },
+            "awayTeam": {
+                "id": 51844,
+                "logo": "https://highlightly.net/soccer/images/teams/51844.png",
+                "name": "West Brom"
+            },
+            "homeTeam": {
+                "id": 48440,
+                "logo": "https://highlightly.net/soccer/images/teams/48440.png",
+                "name": "Bristol City"
+            },
+            "league": {
+                "id": 34824,
+                "logo": "https://highlightly.net/soccer/images/leagues/34824.png",
+                "name": "Championship",
+                "season": 2023
+            }
+        },
+        {
+            "id": 891420731,
+            "round": "Regular Season - 6",
+            "date": "2023-09-16T18:45:00.000Z",
+            "country": {
+                "code": "GB-ENG",
+                "name": "England",
+                "logo": "https://highlightly.net/soccer/images/countries/GB-ENG.svg"
+            },
+            "state": {
+                "clock": 90,
+                "score": {
+                    "current": "2 - 0",
+                    "penalties": null
+                },
+                "description": "Finished"
+            },
+            "awayTeam": {
+                "id": 65460,
+                "logo": "https://highlightly.net/soccer/images/teams/65460.png",
+                "name": "Swansea"
+            },
+            "homeTeam": {
+                "id": 37377,
+                "logo": "https://highlightly.net/soccer/images/teams/37377.png",
+                "name": "Cardiff"
+            },
+            "league": {
+                "id": 34824,
+                "logo": "https://highlightly.net/soccer/images/leagues/34824.png",
+                "name": "Championship",
+                "season": 2023
+            }
+        },
+        {
+            "id": 891421582,
+            "round": "Regular Season - 6",
+            "date": "2023-09-16T14:00:00.000Z",
+            "country": {
+                "code": "GB-ENG",
+                "name": "England",
+                "logo": "https://highlightly.net/soccer/images/countries/GB-ENG.svg"
+            },
+            "state": {
+                "clock": 90,
+                "score": {
+                    "current": "2 - 0",
+                    "penalties": null
+                },
+                "description": "Finished"
+            },
+            "awayTeam": {
+                "id": 62907,
+                "logo": "https://highlightly.net/soccer/images/teams/62907.png",
+                "name": "Rotherham"
+            },
+            "homeTeam": {
+                "id": 32271,
+                "logo": "https://highlightly.net/soccer/images/teams/32271.png",
+                "name": "Huddersfield"
+            },
+            "league": {
+                "id": 34824,
+                "logo": "https://highlightly.net/soccer/images/leagues/34824.png",
+                "name": "Championship",
+                "season": 2023
+            }
+        },
+        {
+            "id": 891422433,
+            "round": "Regular Season - 6",
+            "date": "2023-09-17T11:00:00.000Z",
+            "country": {
+                "code": "GB-ENG",
+                "name": "England",
+                "logo": "https://highlightly.net/soccer/images/countries/GB-ENG.svg"
+            },
+            "state": {
+                "clock": 90,
+                "score": {
+                    "current": "0 - 3",
+                    "penalties": null
+                },
+                "description": "Finished"
+            },
+            "awayTeam": {
+                "id": 54397,
+                "logo": "https://highlightly.net/soccer/images/teams/54397.png",
+                "name": "Leeds"
+            },
+            "homeTeam": {
+                "id": 50142,
+                "logo": "https://highlightly.net/soccer/images/teams/50142.png",
+                "name": "Millwall"
+            },
+            "league": {
+                "id": 34824,
+                "logo": "https://highlightly.net/soccer/images/leagues/34824.png",
+                "name": "Championship",
+                "season": 2023
+            }
+        },
+        {
+            "id": 891423284,
+            "round": "Regular Season - 6",
+            "date": "2023-09-16T14:00:00.000Z",
+            "country": {
+                "code": "GB-ENG",
+                "name": "England",
+                "logo": "https://highlightly.net/soccer/images/countries/GB-ENG.svg"
+            },
+            "state": {
+                "clock": 90,
+                "score": {
+                    "current": "1 - 0",
+                    "penalties": null
+                },
+                "description": "Finished"
+            },
+            "awayTeam": {
+                "id": 64609,
+                "logo": "https://highlightly.net/soccer/images/teams/64609.png",
+                "name": "Stoke City"
+            },
+            "homeTeam": {
+                "id": 61205,
+                "logo": "https://highlightly.net/soccer/images/teams/61205.png",
+                "name": "Norwich"
+            },
+            "league": {
+                "id": 34824,
+                "logo": "https://highlightly.net/soccer/images/leagues/34824.png",
+                "name": "Championship",
+                "season": 2023
+            }
+        },
+        {
+            "id": 891424135,
+            "round": "Regular Season - 6",
+            "date": "2023-09-16T14:00:00.000Z",
+            "country": {
+                "code": "GB-ENG",
+                "name": "England",
+                "logo": "https://highlightly.net/soccer/images/countries/GB-ENG.svg"
+            },
+            "state": {
+                "clock": 90,
+                "score": {
+                    "current": "2 - 1",
+                    "penalties": null
+                },
+                "description": "Finished"
+            },
+            "awayTeam": {
+                "id": 1155591,
+                "logo": "https://highlightly.net/soccer/images/teams/1155591.png",
+                "name": "Plymouth"
+            },
+            "homeTeam": {
+                "id": 50993,
+                "logo": "https://highlightly.net/soccer/images/teams/50993.png",
+                "name": "Preston"
+            },
+            "league": {
+                "id": 34824,
+                "logo": "https://highlightly.net/soccer/images/leagues/34824.png",
+                "name": "Championship",
+                "season": 2023
+            }
+        },
+        {
+            "id": 891424986,
+            "round": "Regular Season - 6",
+            "date": "2023-09-16T14:00:00.000Z",
+            "country": {
+                "code": "GB-ENG",
+                "name": "England",
+                "logo": "https://highlightly.net/soccer/images/countries/GB-ENG.svg"
+            },
+            "state": {
+                "clock": 90,
+                "score": {
+                    "current": "1 - 3",
+                    "penalties": null
+                },
+                "description": "Finished"
+            },
+            "awayTeam": {
+                "id": 635630,
+                "logo": "https://highlightly.net/soccer/images/teams/635630.png",
+                "name": "Sunderland"
+            },
+            "homeTeam": {
+                "id": 62056,
+                "logo": "https://highlightly.net/soccer/images/teams/62056.png",
+                "name": "QPR"
+            },
+            "league": {
+                "id": 34824,
+                "logo": "https://highlightly.net/soccer/images/leagues/34824.png",
+                "name": "Championship",
+                "season": 2023
+            }
+        },
+        {
+            "id": 891425837,
+            "round": "Regular Season - 6",
+            "date": "2023-09-16T14:00:00.000Z",
+            "country": {
+                "code": "GB-ENG",
+                "name": "England",
+                "logo": "https://highlightly.net/soccer/images/countries/GB-ENG.svg"
+            },
+            "state": {
+                "clock": 90,
+                "score": {
+                    "current": "0 - 1",
+                    "penalties": null
+                },
+                "description": "Finished"
+            },
+            "awayTeam": {
+                "id": 49291,
+                "logo": "https://highlightly.net/soccer/images/teams/49291.png",
+                "name": "Ipswich"
+            },
+            "homeTeam": {
+                "id": 63758,
+                "logo": "https://highlightly.net/soccer/images/teams/63758.png",
+                "name": "Sheffield Wednesday"
+            },
+            "league": {
+                "id": 34824,
+                "logo": "https://highlightly.net/soccer/images/leagues/34824.png",
+                "name": "Championship",
+                "season": 2023
+            }
+        },
+        {
+            "id": 891426688,
+            "round": "Regular Season - 6",
+            "date": "2023-09-15T19:00:00.000Z",
+            "country": {
+                "code": "GB-ENG",
+                "name": "England",
+                "logo": "https://highlightly.net/soccer/images/countries/GB-ENG.svg"
+            },
+            "state": {
+                "clock": 90,
+                "score": {
+                    "current": "1 - 4",
+                    "penalties": null
+                },
+                "description": "Finished"
+            },
+            "awayTeam": {
+                "id": 39930,
+                "logo": "https://highlightly.net/soccer/images/teams/39930.png",
+                "name": "Leicester"
+            },
+            "homeTeam": {
+                "id": 35675,
+                "logo": "https://highlightly.net/soccer/images/teams/35675.png",
+                "name": "Southampton"
+            },
+            "league": {
+                "id": 34824,
+                "logo": "https://highlightly.net/soccer/images/leagues/34824.png",
+                "name": "Championship",
+                "season": 2023
+            }
+        },
+        {
+            "id": 891427539,
+            "round": "Regular Season - 6",
+            "date": "2023-09-16T14:00:00.000Z",
+            "country": {
+                "code": "GB-ENG",
+                "name": "England",
+                "logo": "https://highlightly.net/soccer/images/countries/GB-ENG.svg"
+            },
+            "state": {
+                "clock": 90,
+                "score": {
+                    "current": "2 - 0",
+                    "penalties": null
+                },
+                "description": "Finished"
+            },
+            "awayTeam": {
+                "id": 46738,
+                "logo": "https://highlightly.net/soccer/images/teams/46738.png",
+                "name": "Birmingham"
+            },
+            "homeTeam": {
+                "id": 33122,
+                "logo": "https://highlightly.net/soccer/images/teams/33122.png",
+                "name": "Watford"
+            },
+            "league": {
+                "id": 34824,
+                "logo": "https://highlightly.net/soccer/images/leagues/34824.png",
+                "name": "Championship",
+                "season": 2023
+            }
+        },
+        {
+            "id": 891428390,
+            "round": "Regular Season - 7",
+            "date": "2023-09-19T18:45:00.000Z",
+            "country": {
+                "code": "GB-ENG",
+                "name": "England",
+                "logo": "https://highlightly.net/soccer/images/countries/GB-ENG.svg"
+            },
+            "state": {
+                "clock": 90,
+                "score": {
+                    "current": "4 - 1",
+                    "penalties": null
+                },
+                "description": "Finished"
+            },
+            "awayTeam": {
+                "id": 1155591,
+                "logo": "https://highlightly.net/soccer/images/teams/1155591.png",
+                "name": "Plymouth"
+            },
+            "homeTeam": {
+                "id": 48440,
+                "logo": "https://highlightly.net/soccer/images/teams/48440.png",
+                "name": "Bristol City"
+            },
+            "league": {
+                "id": 34824,
+                "logo": "https://highlightly.net/soccer/images/leagues/34824.png",
+                "name": "Championship",
+                "season": 2023
+            }
+        },
+        {
+            "id": 891429241,
+            "round": "Regular Season - 7",
+            "date": "2023-09-19T18:45:00.000Z",
+            "country": {
+                "code": "GB-ENG",
+                "name": "England",
+                "logo": "https://highlightly.net/soccer/images/countries/GB-ENG.svg"
+            },
+            "state": {
+                "clock": 90,
+                "score": {
+                    "current": "3 - 2",
+                    "penalties": null
+                },
+                "description": "Finished"
+            },
+            "awayTeam": {
+                "id": 1146230,
+                "logo": "https://highlightly.net/soccer/images/teams/1146230.png",
+                "name": "Coventry"
+            },
+            "homeTeam": {
+                "id": 37377,
+                "logo": "https://highlightly.net/soccer/images/teams/37377.png",
+                "name": "Cardiff"
+            },
+            "league": {
+                "id": 34824,
+                "logo": "https://highlightly.net/soccer/images/leagues/34824.png",
+                "name": "Championship",
+                "season": 2023
+            }
+        },
+        {
+            "id": 891430092,
+            "round": "Regular Season - 7",
+            "date": "2023-09-19T18:45:00.000Z",
+            "country": {
+                "code": "GB-ENG",
+                "name": "England",
+                "logo": "https://highlightly.net/soccer/images/countries/GB-ENG.svg"
+            },
+            "state": {
+                "clock": 90,
+                "score": {
+                    "current": "2 - 1",
+                    "penalties": null
+                },
+                "description": "Finished"
+            },
+            "awayTeam": {
+                "id": 46738,
+                "logo": "https://highlightly.net/soccer/images/teams/46738.png",
+                "name": "Birmingham"
+            },
+            "homeTeam": {
+                "id": 50993,
+                "logo": "https://highlightly.net/soccer/images/teams/50993.png",
+                "name": "Preston"
+            },
+            "league": {
+                "id": 34824,
+                "logo": "https://highlightly.net/soccer/images/leagues/34824.png",
+                "name": "Championship",
+                "season": 2023
+            }
+        },
+        {
+            "id": 891430943,
+            "round": "Regular Season - 7",
+            "date": "2023-09-19T18:45:00.000Z",
+            "country": {
+                "code": "GB-ENG",
+                "name": "England",
+                "logo": "https://highlightly.net/soccer/images/countries/GB-ENG.svg"
+            },
+            "state": {
+                "clock": 90,
+                "score": {
+                    "current": "1 - 1",
+                    "penalties": null
+                },
+                "description": "Finished"
+            },
+            "awayTeam": {
+                "id": 65460,
+                "logo": "https://highlightly.net/soccer/images/teams/65460.png",
+                "name": "Swansea"
+            },
+            "homeTeam": {
+                "id": 62056,
+                "logo": "https://highlightly.net/soccer/images/teams/62056.png",
+                "name": "QPR"
+            },
+            "league": {
+                "id": 34824,
+                "logo": "https://highlightly.net/soccer/images/leagues/34824.png",
+                "name": "Championship",
+                "season": 2023
+            }
+        },
+        {
+            "id": 891431794,
+            "round": "Regular Season - 7",
+            "date": "2023-09-19T19:00:00.000Z",
+            "country": {
+                "code": "GB-ENG",
+                "name": "England",
+                "logo": "https://highlightly.net/soccer/images/countries/GB-ENG.svg"
+            },
+            "state": {
+                "clock": 90,
+                "score": {
+                    "current": "1 - 1",
+                    "penalties": null
+                },
+                "description": "Finished"
+            },
+            "awayTeam": {
+                "id": 60354,
+                "logo": "https://highlightly.net/soccer/images/teams/60354.png",
+                "name": "Middlesbrough"
+            },
+            "homeTeam": {
+                "id": 63758,
+                "logo": "https://highlightly.net/soccer/images/teams/63758.png",
+                "name": "Sheffield Wednesday"
+            },
+            "league": {
+                "id": 34824,
+                "logo": "https://highlightly.net/soccer/images/leagues/34824.png",
+                "name": "Championship",
+                "season": 2023
+            }
+        },
+        {
+            "id": 891432645,
+            "round": "Regular Season - 7",
+            "date": "2023-09-19T18:45:00.000Z",
+            "country": {
+                "code": "GB-ENG",
+                "name": "England",
+                "logo": "https://highlightly.net/soccer/images/countries/GB-ENG.svg"
+            },
+            "state": {
+                "clock": 90,
+                "score": {
+                    "current": "0 - 1",
+                    "penalties": null
+                },
+                "description": "Finished"
+            },
+            "awayTeam": {
+                "id": 49291,
+                "logo": "https://highlightly.net/soccer/images/teams/49291.png",
+                "name": "Ipswich"
+            },
+            "homeTeam": {
+                "id": 35675,
+                "logo": "https://highlightly.net/soccer/images/teams/35675.png",
+                "name": "Southampton"
+            },
+            "league": {
+                "id": 34824,
+                "logo": "https://highlightly.net/soccer/images/leagues/34824.png",
+                "name": "Championship",
+                "season": 2023
+            }
+        },
+        {
+            "id": 891433496,
+            "round": "Regular Season - 7",
+            "date": "2023-09-20T18:45:00.000Z",
+            "country": {
+                "code": "GB-ENG",
+                "name": "England",
+                "logo": "https://highlightly.net/soccer/images/countries/GB-ENG.svg"
+            },
+            "state": {
+                "clock": 90,
+                "score": {
+                    "current": "1 - 3",
+                    "penalties": null
+                },
+                "description": "Finished"
+            },
+            "awayTeam": {
+                "id": 635630,
+                "logo": "https://highlightly.net/soccer/images/teams/635630.png",
+                "name": "Sunderland"
+            },
+            "homeTeam": {
+                "id": 57801,
+                "logo": "https://highlightly.net/soccer/images/teams/57801.png",
+                "name": "Blackburn"
+            },
+            "league": {
+                "id": 34824,
+                "logo": "https://highlightly.net/soccer/images/leagues/34824.png",
+                "name": "Championship",
+                "season": 2023
+            }
+        },
+        {
+            "id": 891434347,
+            "round": "Regular Season - 7",
+            "date": "2023-09-20T18:45:00.000Z",
+            "country": {
+                "code": "GB-ENG",
+                "name": "England",
+                "logo": "https://highlightly.net/soccer/images/countries/GB-ENG.svg"
+            },
+            "state": {
+                "clock": 90,
+                "score": {
+                    "current": "2 - 2",
+                    "penalties": null
+                },
+                "description": "Finished"
+            },
+            "awayTeam": {
+                "id": 64609,
+                "logo": "https://highlightly.net/soccer/images/teams/64609.png",
+                "name": "Stoke City"
+            },
+            "homeTeam": {
+                "id": 32271,
+                "logo": "https://highlightly.net/soccer/images/teams/32271.png",
+                "name": "Huddersfield"
+            },
+            "league": {
+                "id": 34824,
+                "logo": "https://highlightly.net/soccer/images/leagues/34824.png",
+                "name": "Championship",
+                "season": 2023
+            }
+        },
+        {
+            "id": 891435198,
+            "round": "Regular Season - 7",
+            "date": "2023-09-20T18:45:00.000Z",
+            "country": {
+                "code": "GB-ENG",
+                "name": "England",
+                "logo": "https://highlightly.net/soccer/images/countries/GB-ENG.svg"
+            },
+            "state": {
+                "clock": 90,
+                "score": {
+                    "current": "0 - 0",
+                    "penalties": null
+                },
+                "description": "Finished"
+            },
+            "awayTeam": {
+                "id": 54397,
+                "logo": "https://highlightly.net/soccer/images/teams/54397.png",
+                "name": "Leeds"
+            },
+            "homeTeam": {
+                "id": 55248,
+                "logo": "https://highlightly.net/soccer/images/teams/55248.png",
+                "name": "Hull City"
+            },
+            "league": {
+                "id": 34824,
+                "logo": "https://highlightly.net/soccer/images/leagues/34824.png",
+                "name": "Championship",
+                "season": 2023
+            }
+        },
+        {
+            "id": 891436049,
+            "round": "Regular Season - 7",
+            "date": "2023-09-20T18:45:00.000Z",
+            "country": {
+                "code": "GB-ENG",
+                "name": "England",
+                "logo": "https://highlightly.net/soccer/images/countries/GB-ENG.svg"
+            },
+            "state": {
+                "clock": 90,
+                "score": {
+                    "current": "3 - 0",
+                    "penalties": null
+                },
+                "description": "Finished"
+            },
+            "awayTeam": {
+                "id": 62907,
+                "logo": "https://highlightly.net/soccer/images/teams/62907.png",
+                "name": "Rotherham"
+            },
+            "homeTeam": {
+                "id": 50142,
+                "logo": "https://highlightly.net/soccer/images/teams/50142.png",
+                "name": "Millwall"
+            },
+            "league": {
+                "id": 34824,
+                "logo": "https://highlightly.net/soccer/images/leagues/34824.png",
+                "name": "Championship",
+                "season": 2023
+            }
+        },
+        {
+            "id": 891436900,
+            "round": "Regular Season - 7",
+            "date": "2023-09-20T19:00:00.000Z",
+            "country": {
+                "code": "GB-ENG",
+                "name": "England",
+                "logo": "https://highlightly.net/soccer/images/countries/GB-ENG.svg"
+            },
+            "state": {
+                "clock": 90,
+                "score": {
+                    "current": "0 - 2",
+                    "penalties": null
+                },
+                "description": "Finished"
+            },
+            "awayTeam": {
+                "id": 39930,
+                "logo": "https://highlightly.net/soccer/images/teams/39930.png",
+                "name": "Leicester"
+            },
+            "homeTeam": {
+                "id": 61205,
+                "logo": "https://highlightly.net/soccer/images/teams/61205.png",
+                "name": "Norwich"
+            },
+            "league": {
+                "id": 34824,
+                "logo": "https://highlightly.net/soccer/images/leagues/34824.png",
+                "name": "Championship",
+                "season": 2023
+            }
+        },
+        {
+            "id": 891437751,
+            "round": "Regular Season - 7",
+            "date": "2023-09-20T18:45:00.000Z",
+            "country": {
+                "code": "GB-ENG",
+                "name": "England",
+                "logo": "https://highlightly.net/soccer/images/countries/GB-ENG.svg"
+            },
+            "state": {
+                "clock": 90,
+                "score": {
+                    "current": "2 - 2",
+                    "penalties": null
+                },
+                "description": "Finished"
+            },
+            "awayTeam": {
+                "id": 51844,
+                "logo": "https://highlightly.net/soccer/images/teams/51844.png",
+                "name": "West Brom"
+            },
+            "homeTeam": {
+                "id": 33122,
+                "logo": "https://highlightly.net/soccer/images/teams/33122.png",
+                "name": "Watford"
+            },
+            "league": {
+                "id": 34824,
+                "logo": "https://highlightly.net/soccer/images/leagues/34824.png",
+                "name": "Championship",
+                "season": 2023
+            }
+        },
+        {
+            "id": 891438602,
+            "round": "Regular Season - 8",
+            "date": "2023-09-22T19:00:00.000Z",
+            "country": {
+                "code": "GB-ENG",
+                "name": "England",
+                "logo": "https://highlightly.net/soccer/images/countries/GB-ENG.svg"
+            },
+            "state": {
+                "clock": 90,
+                "score": {
+                    "current": "0 - 0",
+                    "penalties": null
+                },
+                "description": "Finished"
+            },
+            "awayTeam": {
+                "id": 62056,
+                "logo": "https://highlightly.net/soccer/images/teams/62056.png",
+                "name": "QPR"
+            },
+            "homeTeam": {
+                "id": 46738,
+                "logo": "https://highlightly.net/soccer/images/teams/46738.png",
+                "name": "Birmingham"
+            },
+            "league": {
+                "id": 34824,
+                "logo": "https://highlightly.net/soccer/images/leagues/34824.png",
+                "name": "Championship",
+                "season": 2023
+            }
+        },
+        {
+            "id": 891439453,
+            "round": "Regular Season - 8",
+            "date": "2023-09-25T19:00:00.000Z",
+            "country": {
+                "code": "GB-ENG",
+                "name": "England",
+                "logo": "https://highlightly.net/soccer/images/countries/GB-ENG.svg"
+            },
+            "state": {
+                "clock": 90,
+                "score": {
+                    "current": "1 - 1",
+                    "penalties": null
+                },
+                "description": "Finished"
+            },
+            "awayTeam": {
+                "id": 32271,
+                "logo": "https://highlightly.net/soccer/images/teams/32271.png",
+                "name": "Huddersfield"
+            },
+            "homeTeam": {
+                "id": 1146230,
+                "logo": "https://highlightly.net/soccer/images/teams/1146230.png",
+                "name": "Coventry"
+            },
+            "league": {
+                "id": 34824,
+                "logo": "https://highlightly.net/soccer/images/leagues/34824.png",
+                "name": "Championship",
+                "season": 2023
+            }
+        },
+        {
+            "id": 891440304,
+            "round": "Regular Season - 8",
+            "date": "2023-09-23T14:00:00.000Z",
+            "country": {
+                "code": "GB-ENG",
+                "name": "England",
+                "logo": "https://highlightly.net/soccer/images/countries/GB-ENG.svg"
+            },
+            "state": {
+                "clock": 90,
+                "score": {
+                    "current": "4 - 3",
+                    "penalties": null
+                },
+                "description": "Finished"
+            },
+            "awayTeam": {
+                "id": 57801,
+                "logo": "https://highlightly.net/soccer/images/teams/57801.png",
+                "name": "Blackburn"
+            },
+            "homeTeam": {
+                "id": 49291,
+                "logo": "https://highlightly.net/soccer/images/teams/49291.png",
+                "name": "Ipswich"
+            },
+            "league": {
+                "id": 34824,
+                "logo": "https://highlightly.net/soccer/images/leagues/34824.png",
+                "name": "Championship",
+                "season": 2023
+            }
+        },
+        {
+            "id": 891441155,
+            "round": "Regular Season - 8",
+            "date": "2023-09-23T14:00:00.000Z",
+            "country": {
+                "code": "GB-ENG",
+                "name": "England",
+                "logo": "https://highlightly.net/soccer/images/countries/GB-ENG.svg"
+            },
+            "state": {
+                "clock": 90,
+                "score": {
+                    "current": "3 - 0",
+                    "penalties": null
+                },
+                "description": "Finished"
+            },
+            "awayTeam": {
+                "id": 33122,
+                "logo": "https://highlightly.net/soccer/images/teams/33122.png",
+                "name": "Watford"
+            },
+            "homeTeam": {
+                "id": 54397,
+                "logo": "https://highlightly.net/soccer/images/teams/54397.png",
+                "name": "Leeds"
+            },
+            "league": {
+                "id": 34824,
+                "logo": "https://highlightly.net/soccer/images/leagues/34824.png",
+                "name": "Championship",
+                "season": 2023
+            }
+        },
+        {
+            "id": 891442006,
+            "round": "Regular Season - 8",
+            "date": "2023-09-23T14:00:00.000Z",
+            "country": {
+                "code": "GB-ENG",
+                "name": "England",
+                "logo": "https://highlightly.net/soccer/images/countries/GB-ENG.svg"
+            },
+            "state": {
+                "clock": 90,
+                "score": {
+                    "current": "1 - 0",
+                    "penalties": null
+                },
+                "description": "Finished"
+            },
+            "awayTeam": {
+                "id": 48440,
+                "logo": "https://highlightly.net/soccer/images/teams/48440.png",
+                "name": "Bristol City"
+            },
+            "homeTeam": {
+                "id": 39930,
+                "logo": "https://highlightly.net/soccer/images/teams/39930.png",
+                "name": "Leicester"
+            },
+            "league": {
+                "id": 34824,
+                "logo": "https://highlightly.net/soccer/images/leagues/34824.png",
+                "name": "Championship",
+                "season": 2023
+            }
+        },
+        {
+            "id": 891442857,
+            "round": "Regular Season - 8",
+            "date": "2023-09-23T14:00:00.000Z",
+            "country": {
+                "code": "GB-ENG",
+                "name": "England",
+                "logo": "https://highlightly.net/soccer/images/countries/GB-ENG.svg"
+            },
+            "state": {
+                "clock": 90,
+                "score": {
+                    "current": "2 - 1",
+                    "penalties": null
+                },
+                "description": "Finished"
+            },
+            "awayTeam": {
+                "id": 35675,
+                "logo": "https://highlightly.net/soccer/images/teams/35675.png",
+                "name": "Southampton"
+            },
+            "homeTeam": {
+                "id": 60354,
+                "logo": "https://highlightly.net/soccer/images/teams/60354.png",
+                "name": "Middlesbrough"
+            },
+            "league": {
+                "id": 34824,
+                "logo": "https://highlightly.net/soccer/images/leagues/34824.png",
+                "name": "Championship",
+                "season": 2023
+            }
+        },
+        {
+            "id": 891443708,
+            "round": "Regular Season - 8",
+            "date": "2023-09-23T14:00:00.000Z",
+            "country": {
+                "code": "GB-ENG",
+                "name": "England",
+                "logo": "https://highlightly.net/soccer/images/countries/GB-ENG.svg"
+            },
+            "state": {
+                "clock": 90,
+                "score": {
+                    "current": "6 - 2",
+                    "penalties": null
+                },
+                "description": "Finished"
+            },
+            "awayTeam": {
+                "id": 61205,
+                "logo": "https://highlightly.net/soccer/images/teams/61205.png",
+                "name": "Norwich"
+            },
+            "homeTeam": {
+                "id": 1155591,
+                "logo": "https://highlightly.net/soccer/images/teams/1155591.png",
+                "name": "Plymouth"
+            },
+            "league": {
+                "id": 34824,
+                "logo": "https://highlightly.net/soccer/images/leagues/34824.png",
+                "name": "Championship",
+                "season": 2023
+            }
+        },
+        {
+            "id": 891444559,
+            "round": "Regular Season - 8",
+            "date": "2023-09-23T14:00:00.000Z",
+            "country": {
+                "code": "GB-ENG",
+                "name": "England",
+                "logo": "https://highlightly.net/soccer/images/countries/GB-ENG.svg"
+            },
+            "state": {
+                "clock": 90,
+                "score": {
+                    "current": "1 - 1",
+                    "penalties": null
+                },
+                "description": "Finished"
+            },
+            "awayTeam": {
+                "id": 50993,
+                "logo": "https://highlightly.net/soccer/images/teams/50993.png",
+                "name": "Preston"
+            },
+            "homeTeam": {
+                "id": 62907,
+                "logo": "https://highlightly.net/soccer/images/teams/62907.png",
+                "name": "Rotherham"
+            },
+            "league": {
+                "id": 34824,
+                "logo": "https://highlightly.net/soccer/images/leagues/34824.png",
+                "name": "Championship",
+                "season": 2023
+            }
+        },
+        {
+            "id": 891445410,
+            "round": "Regular Season - 8",
+            "date": "2023-09-24T11:00:00.000Z",
+            "country": {
+                "code": "GB-ENG",
+                "name": "England",
+                "logo": "https://highlightly.net/soccer/images/countries/GB-ENG.svg"
+            },
+            "state": {
+                "clock": 90,
+                "score": {
+                    "current": "1 - 3",
+                    "penalties": null
+                },
+                "description": "Finished"
+            },
+            "awayTeam": {
+                "id": 55248,
+                "logo": "https://highlightly.net/soccer/images/teams/55248.png",
+                "name": "Hull City"
+            },
+            "homeTeam": {
+                "id": 64609,
+                "logo": "https://highlightly.net/soccer/images/teams/64609.png",
+                "name": "Stoke City"
+            },
+            "league": {
+                "id": 34824,
+                "logo": "https://highlightly.net/soccer/images/leagues/34824.png",
+                "name": "Championship",
+                "season": 2023
+            }
+        },
+        {
+            "id": 891446261,
+            "round": "Regular Season - 8",
+            "date": "2023-09-24T14:00:00.000Z",
+            "country": {
+                "code": "GB-ENG",
+                "name": "England",
+                "logo": "https://highlightly.net/soccer/images/countries/GB-ENG.svg"
+            },
+            "state": {
+                "clock": 90,
+                "score": {
+                    "current": "0 - 1",
+                    "penalties": null
+                },
+                "description": "Finished"
+            },
+            "awayTeam": {
+                "id": 37377,
+                "logo": "https://highlightly.net/soccer/images/teams/37377.png",
+                "name": "Cardiff"
+            },
+            "homeTeam": {
+                "id": 635630,
+                "logo": "https://highlightly.net/soccer/images/teams/635630.png",
+                "name": "Sunderland"
+            },
+            "league": {
+                "id": 34824,
+                "logo": "https://highlightly.net/soccer/images/leagues/34824.png",
+                "name": "Championship",
+                "season": 2023
+            }
+        },
+        {
+            "id": 891447112,
+            "round": "Regular Season - 8",
+            "date": "2023-09-23T14:00:00.000Z",
+            "country": {
+                "code": "GB-ENG",
+                "name": "England",
+                "logo": "https://highlightly.net/soccer/images/countries/GB-ENG.svg"
+            },
+            "state": {
+                "clock": 90,
+                "score": {
+                    "current": "3 - 0",
+                    "penalties": null
+                },
+                "description": "Finished"
+            },
+            "awayTeam": {
+                "id": 63758,
+                "logo": "https://highlightly.net/soccer/images/teams/63758.png",
+                "name": "Sheffield Wednesday"
+            },
+            "homeTeam": {
+                "id": 65460,
+                "logo": "https://highlightly.net/soccer/images/teams/65460.png",
+                "name": "Swansea"
+            },
+            "league": {
+                "id": 34824,
+                "logo": "https://highlightly.net/soccer/images/leagues/34824.png",
+                "name": "Championship",
+                "season": 2023
+            }
+        },
+        {
+            "id": 891447963,
+            "round": "Regular Season - 8",
+            "date": "2023-09-23T14:00:00.000Z",
+            "country": {
+                "code": "GB-ENG",
+                "name": "England",
+                "logo": "https://highlightly.net/soccer/images/countries/GB-ENG.svg"
+            },
+            "state": {
+                "clock": 90,
+                "score": {
+                    "current": "0 - 0",
+                    "penalties": null
+                },
+                "description": "Finished"
+            },
+            "awayTeam": {
+                "id": 50142,
+                "logo": "https://highlightly.net/soccer/images/teams/50142.png",
+                "name": "Millwall"
+            },
+            "homeTeam": {
+                "id": 51844,
+                "logo": "https://highlightly.net/soccer/images/teams/51844.png",
+                "name": "West Brom"
+            },
+            "league": {
+                "id": 34824,
+                "logo": "https://highlightly.net/soccer/images/leagues/34824.png",
+                "name": "Championship",
+                "season": 2023
+            }
+        },
+        {
+            "id": 891448814,
+            "round": "Regular Season - 9",
+            "date": "2023-10-01T11:00:00.000Z",
+            "country": {
+                "code": "GB-ENG",
+                "name": "England",
+                "logo": "https://highlightly.net/soccer/images/countries/GB-ENG.svg"
+            },
+            "state": {
+                "clock": 90,
+                "score": {
+                    "current": "1 - 4",
+                    "penalties": null
+                },
+                "description": "Finished"
+            },
+            "awayTeam": {
+                "id": 39930,
+                "logo": "https://highlightly.net/soccer/images/teams/39930.png",
+                "name": "Leicester"
+            },
+            "homeTeam": {
+                "id": 57801,
+                "logo": "https://highlightly.net/soccer/images/teams/57801.png",
+                "name": "Blackburn"
+            },
+            "league": {
+                "id": 34824,
+                "logo": "https://highlightly.net/soccer/images/leagues/34824.png",
+                "name": "Championship",
+                "season": 2023
+            }
+        },
+        {
+            "id": 891449665,
+            "round": "Regular Season - 9",
+            "date": "2023-09-30T14:00:00.000Z",
+            "country": {
+                "code": "GB-ENG",
+                "name": "England",
+                "logo": "https://highlightly.net/soccer/images/countries/GB-ENG.svg"
+            },
+            "state": {
+                "clock": 90,
+                "score": {
+                    "current": "2 - 3",
+                    "penalties": null
+                },
+                "description": "Finished"
+            },
+            "awayTeam": {
+                "id": 64609,
+                "logo": "https://highlightly.net/soccer/images/teams/64609.png",
+                "name": "Stoke City"
+            },
+            "homeTeam": {
+                "id": 48440,
+                "logo": "https://highlightly.net/soccer/images/teams/48440.png",
+                "name": "Bristol City"
+            },
+            "league": {
+                "id": 34824,
+                "logo": "https://highlightly.net/soccer/images/leagues/34824.png",
+                "name": "Championship",
+                "season": 2023
+            }
+        },
+        {
+            "id": 891450516,
+            "round": "Regular Season - 9",
+            "date": "2023-09-30T14:00:00.000Z",
+            "country": {
+                "code": "GB-ENG",
+                "name": "England",
+                "logo": "https://highlightly.net/soccer/images/countries/GB-ENG.svg"
+            },
+            "state": {
+                "clock": 90,
+                "score": {
+                    "current": "2 - 0",
+                    "penalties": null
+                },
+                "description": "Finished"
+            },
+            "awayTeam": {
+                "id": 62907,
+                "logo": "https://highlightly.net/soccer/images/teams/62907.png",
+                "name": "Rotherham"
+            },
+            "homeTeam": {
+                "id": 37377,
+                "logo": "https://highlightly.net/soccer/images/teams/37377.png",
+                "name": "Cardiff"
+            },
+            "league": {
+                "id": 34824,
+                "logo": "https://highlightly.net/soccer/images/leagues/34824.png",
+                "name": "Championship",
+                "season": 2023
+            }
+        },
+        {
+            "id": 891451367,
+            "round": "Regular Season - 9",
+            "date": "2023-09-30T14:00:00.000Z",
+            "country": {
+                "code": "GB-ENG",
+                "name": "England",
+                "logo": "https://highlightly.net/soccer/images/countries/GB-ENG.svg"
+            },
+            "state": {
+                "clock": 90,
+                "score": {
+                    "current": "1 - 1",
+                    "penalties": null
+                },
+                "description": "Finished"
+            },
+            "awayTeam": {
+                "id": 49291,
+                "logo": "https://highlightly.net/soccer/images/teams/49291.png",
+                "name": "Ipswich"
+            },
+            "homeTeam": {
+                "id": 32271,
+                "logo": "https://highlightly.net/soccer/images/teams/32271.png",
+                "name": "Huddersfield"
+            },
+            "league": {
+                "id": 34824,
+                "logo": "https://highlightly.net/soccer/images/leagues/34824.png",
+                "name": "Championship",
+                "season": 2023
+            }
+        }
+    ],
+    "plan": {
+        "tier": "BASIC",
+        "message": "Some results might be hidden with FREE tier. Check your API coverage for more information: https://rapidapi.com/highlightly-api-highlightly-api-default/api/sport-highlights-api/details"
+    },
+    "pagination": {
+        "totalCount": 445,
+        "offset": 0,
+        "limit": 100
+    }
+}

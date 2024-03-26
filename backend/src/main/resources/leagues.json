@@ -1,0 +1,422 @@
+[
+  {
+    "id": 34824,
+    "logo": "https://highlightly.net/soccer/images/leagues/34824.png",
+    "name": "Championship",
+    "seasons": [
+      {
+        "season": 2023
+      }
+    ],
+    "country": {
+      "code": "GB-ENG",
+      "name": "England",
+      "logo": "https://highlightly.net/soccer/images/countries/GB-ENG.svg"
+    }
+  },
+  {
+    "id": 75672,
+    "logo": "https://highlightly.net/soccer/images/leagues/75672.png",
+    "name": "Eredivisie",
+    "seasons": [
+      {
+        "season": 2022
+      },
+      {
+        "season": 2023
+      }
+    ],
+    "country": {
+      "code": "NL",
+      "name": "Netherlands",
+      "logo": "https://highlightly.net/soccer/images/countries/NL.svg"
+    }
+  },
+  {
+    "id": 91841,
+    "logo": "https://highlightly.net/soccer/images/leagues/91841.png",
+    "name": "I Liga",
+    "seasons": [
+      {
+        "season": 2022
+      },
+      {
+        "season": 2023
+      }
+    ],
+    "country": {
+      "code": "PL",
+      "name": "Poland",
+      "logo": "https://highlightly.net/soccer/images/countries/PL.svg"
+    }
+  },
+  {
+    "id": 97798,
+    "logo": "https://highlightly.net/soccer/images/leagues/97798.png",
+    "name": "Superettan",
+    "seasons": [
+      {
+        "season": 2023
+      }
+    ],
+    "country": {
+      "code": "SE",
+      "name": "Sweden",
+      "logo": "https://highlightly.net/soccer/images/countries/SE.svg"
+    }
+  },
+  {
+    "id": 102053,
+    "logo": "https://highlightly.net/soccer/images/leagues/102053.png",
+    "name": "Superliga",
+    "seasons": [
+      {
+        "season": 2023
+      }
+    ],
+    "country": {
+      "code": "DK",
+      "name": "Denmark",
+      "logo": "https://highlightly.net/soccer/images/countries/DK.svg"
+    }
+  },
+  {
+    "id": 147156,
+    "logo": "https://highlightly.net/soccer/images/leagues/147156.png",
+    "name": "First League",
+    "seasons": [
+      {
+        "season": 2022
+      },
+      {
+        "season": 2023
+      }
+    ],
+    "country": {
+      "code": "BG",
+      "name": "Bulgaria",
+      "logo": "https://highlightly.net/soccer/images/countries/BG.svg"
+    }
+  },
+  {
+    "id": 173537,
+    "logo": "https://highlightly.net/soccer/images/leagues/173537.png",
+    "name": "Süper Lig",
+    "seasons": [
+      {
+        "season": 2023
+      }
+    ],
+    "country": {
+      "code": "TR",
+      "name": "Turkey",
+      "logo": "https://highlightly.net/soccer/images/countries/TR.svg"
+    }
+  },
+  {
+    "id": 174388,
+    "logo": "https://highlightly.net/soccer/images/leagues/174388.png",
+    "name": "1. Lig",
+    "seasons": [
+      {
+        "season": 2023
+      }
+    ],
+    "country": {
+      "code": "TR",
+      "name": "Turkey",
+      "logo": "https://highlightly.net/soccer/images/countries/TR.svg"
+    }
+  },
+  {
+    "id": 175239,
+    "logo": "https://highlightly.net/soccer/images/leagues/175239.png",
+    "name": "2. Lig",
+    "seasons": [
+      {
+        "season": 2022
+      },
+      {
+        "season": 2023
+      }
+    ],
+    "country": {
+      "code": "TR",
+      "name": "Turkey",
+      "logo": "https://highlightly.net/soccer/images/countries/TR.svg"
+    }
+  },
+  {
+    "id": 176090,
+    "logo": "https://highlightly.net/soccer/images/leagues/176090.png",
+    "name": "Cup",
+    "seasons": [
+      {
+        "season": 2022
+      },
+      {
+        "season": 2023
+      }
+    ],
+    "country": {
+      "code": "TR",
+      "name": "Turkey",
+      "logo": "https://highlightly.net/soccer/images/countries/TR.svg"
+    }
+  },
+  {
+    "id": 208428,
+    "logo": "https://highlightly.net/soccer/images/leagues/208428.png",
+    "name": "Veikkausliiga",
+    "seasons": [
+      {
+        "season": 2023
+      }
+    ],
+    "country": {
+      "code": "FI",
+      "name": "Finland",
+      "logo": "https://highlightly.net/soccer/images/countries/FI.svg"
+    }
+  },
+  {
+    "id": 216087,
+    "logo": "https://highlightly.net/soccer/images/leagues/216087.png",
+    "name": "Major League Soccer",
+    "seasons": [
+      {
+        "season": 2023
+      },
+      {
+        "season": 2024
+      }
+    ],
+    "country": {
+      "code": "US",
+      "name": "USA",
+      "logo": "https://highlightly.net/soccer/images/countries/US.svg"
+    }
+  },
+  {
+    "id": 217789,
+    "logo": "https://highlightly.net/soccer/images/leagues/217789.png",
+    "name": "USL Championship",
+    "seasons": [
+      {
+        "season": 2023
+      },
+      {
+        "season": 2024
+      }
+    ],
+    "country": {
+      "code": "US",
+      "name": "USA",
+      "logo": "https://highlightly.net/soccer/images/countries/US.svg"
+    }
+  },
+  {
+    "id": 226299,
+    "logo": "https://highlightly.net/soccer/images/leagues/226299.png",
+    "name": "Primera División",
+    "seasons": [
+      {
+        "season": 2023
+      },
+      {
+        "season": 2024
+      }
+    ],
+    "country": {
+      "code": "CL",
+      "name": "Chile",
+      "logo": "https://highlightly.net/soccer/images/countries/CL.svg"
+    }
+  },
+  {
+    "id": 228852,
+    "logo": "https://highlightly.net/soccer/images/leagues/228852.png",
+    "name": "Primera División - Apertura",
+    "seasons": [
+      {
+        "season": 2023
+      },
+      {
+        "season": 2024
+      }
+    ],
+    "country": {
+      "code": "UY",
+      "name": "Uruguay",
+      "logo": "https://highlightly.net/soccer/images/countries/UY.svg"
+    }
+  },
+  {
+    "id": 239915,
+    "logo": "https://highlightly.net/soccer/images/leagues/239915.png",
+    "name": "Primera División",
+    "seasons": [
+      {
+        "season": 2023
+      },
+      {
+        "season": 2024
+      }
+    ],
+    "country": {
+      "code": "PE",
+      "name": "Peru",
+      "logo": "https://highlightly.net/soccer/images/countries/PE.svg"
+    }
+  },
+  {
+    "id": 241617,
+    "logo": "https://highlightly.net/soccer/images/leagues/241617.png",
+    "name": "Liga I",
+    "seasons": [
+      {
+        "season": 2023
+      }
+    ],
+    "country": {
+      "code": "RO",
+      "name": "Romania",
+      "logo": "https://highlightly.net/soccer/images/countries/RO.svg"
+    }
+  },
+  {
+    "id": 245872,
+    "logo": "https://highlightly.net/soccer/images/leagues/245872.png",
+    "name": "Premier Soccer League",
+    "seasons": [
+      {
+        "season": 2022
+      },
+      {
+        "season": 2023
+      }
+    ],
+    "country": {
+      "code": "ZA",
+      "name": "South Africa",
+      "logo": "https://highlightly.net/soccer/images/countries/ZA.svg"
+    }
+  },
+  {
+    "id": 308846,
+    "logo": "https://highlightly.net/soccer/images/leagues/308846.png",
+    "name": "A Lyga",
+    "seasons": [
+      {
+        "season": 2023
+      },
+      {
+        "season": 2024
+      }
+    ],
+    "country": {
+      "code": "LT",
+      "name": "Lithuania",
+      "logo": "https://highlightly.net/soccer/images/countries/LT.svg"
+    }
+  },
+  {
+    "id": 311399,
+    "logo": "https://highlightly.net/soccer/images/leagues/311399.png",
+    "name": "Virsliga",
+    "seasons": [
+      {
+        "season": 2023
+      },
+      {
+        "season": 2024
+      }
+    ],
+    "country": {
+      "code": "LV",
+      "name": "Latvia",
+      "logo": "https://highlightly.net/soccer/images/countries/LV.svg"
+    }
+  },
+  {
+    "id": 313952,
+    "logo": "https://highlightly.net/soccer/images/leagues/313952.png",
+    "name": "Premier League",
+    "seasons": [
+      {
+        "season": 2023
+      }
+    ],
+    "country": {
+      "code": "SG",
+      "name": "Singapore",
+      "logo": "https://highlightly.net/soccer/images/countries/SG.svg"
+    }
+  },
+  {
+    "id": 318207,
+    "logo": "https://highlightly.net/soccer/images/leagues/318207.png",
+    "name": "1. SNL",
+    "seasons": [
+      {
+        "season": 2023
+      }
+    ],
+    "country": {
+      "code": "SI",
+      "name": "Slovenia",
+      "logo": "https://highlightly.net/soccer/images/countries/SI.svg"
+    }
+  },
+  {
+    "id": 331823,
+    "logo": "https://highlightly.net/soccer/images/leagues/331823.png",
+    "name": "Premier League",
+    "seasons": [
+      {
+        "season": 2023
+      },
+      {
+        "season": 2024
+      }
+    ],
+    "country": {
+      "code": "KZ",
+      "name": "Kazakhstan",
+      "logo": "https://highlightly.net/soccer/images/countries/KZ.svg"
+    }
+  },
+  {
+    "id": 416923,
+    "logo": "https://highlightly.net/soccer/images/leagues/416923.png",
+    "name": "USL League One",
+    "seasons": [
+      {
+        "season": 2023
+      },
+      {
+        "season": 2024
+      }
+    ],
+    "country": {
+      "code": "US",
+      "name": "USA",
+      "logo": "https://highlightly.net/soccer/images/countries/US.svg"
+    }
+  },
+  {
+    "id": 469685,
+    "logo": "https://highlightly.net/soccer/images/leagues/469685.png",
+    "name": "Super Cup",
+    "seasons": [
+      {
+        "season": 2023
+      }
+    ],
+    "country": {
+      "code": "TR",
+      "name": "Turkey",
+      "logo": "https://highlightly.net/soccer/images/countries/TR.svg"
+    }
+  }
+]
