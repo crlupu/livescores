@@ -18,6 +18,7 @@ import java.util.List;
 public class DataInitializerService {
     private LeagueRepository leagueRepository;
     private MatchRepository matchRepository;
+    private TeamRepository teamRepository;
     private ResourceLoader resourceLoader;
 
     @PostConstruct
@@ -27,11 +28,11 @@ public class DataInitializerService {
         String teamsData = readFileToString("teams.json");
         ObjectMapper mapper = new ObjectMapper();
         mapper.configure(DeserializationFeature.FAIL_ON_UNKNOWN_PROPERTIES, false);
-        List<League> leagues = mapper.readValue(leaguesData, new TypeReference<>(){});
-        List<Team> teams = mapper.readValue(teamsData, new TypeReference<>(){});
-        List<Match> matches = mapper.readValue(matchesData, new TypeReference<>(){});
+        List<League> leagues = mapper.readValue(leaguesData, new TypeReference<>() {});
+        List<Team> teams = mapper.readValue(teamsData, new TypeReference<>() {});
+        List<Match> matches = mapper.readValue(matchesData, new TypeReference<>() {});
 
-        matchRepository.saveAll(matches);
+        teamRepository.saveAll(teams);
         leagueRepository.saveAll(leagues);
         matchRepository.saveAll(matches);
     }
