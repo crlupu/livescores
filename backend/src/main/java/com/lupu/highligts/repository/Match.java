@@ -22,12 +22,12 @@ public class Match {
     @ManyToOne
     private Team awayTeam;
 
-    private String score;
-
     @DateTimeFormat
     private Date Date;
 
     @ManyToOne
     League league;
+
+    private State state;
 
 }

@@ -66,6 +66,21 @@
     }
   },
   {
+    "id": 102053,
+    "logo": "https://highlightly.net/soccer/images/leagues/102053.png",
+    "name": "Superliga",
+    "seasons": [
+      {
+        "season": 2023
+      }
+    ],
+    "country": {
+      "code": "DK",
+      "name": "Denmark",
+      "logo": "https://highlightly.net/soccer/images/countries/DK.svg"
+    }
+  },
+  {
     "id": 216087,
     "logo": "https://highlightly.net/soccer/images/leagues/216087.png",
     "name": "Major League Soccer",
