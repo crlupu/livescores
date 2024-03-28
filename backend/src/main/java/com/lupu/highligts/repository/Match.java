@@ -27,4 +27,7 @@ public class Match {
     @DateTimeFormat
     private Date Date;
 
+    @ManyToOne
+    League league;
+
 }
