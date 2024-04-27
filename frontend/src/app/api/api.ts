@@ -1,24 +1,29 @@
+import {Simulate} from "react-dom/test-utils";
+import error = Simulate.error;
+
 const api = {
     getLeagues,
     getMatches
 }
 
 async function getLeagues() {
-    return getRequest("leagues");
+    return getRequest("leagues/all");
 }
 
 async function getMatches() {
-    return getRequest("matches");
+    return getRequest("matches/all");
 }
 
 async function getRequest(requestPath: string) {
-    const res = await fetch(`http://localhost:8080/${requestPath}`)
-
-    if (!res.ok) {
-        throw new Error('Failed to fetch data')
+    try {
+        const res = await fetch(`http://localhost:8080/${requestPath}`)
+        if (!res.ok) {
+            console.log('Failed to fetch data');
+        }
+        return res.json();
+    } catch (error) {
+        console.log('Failed to send request');
     }
-
-    return res.json();
 }
 
 export default api;

@@ -12,7 +12,7 @@ import org.springframework.web.bind.annotation.RequestMapping;
 import java.util.List;
 
 @Controller
-@RequestMapping("/league")
+@RequestMapping("/leagues")
 @AllArgsConstructor
 public class LeagueController {
     private LeagueService leagueService;

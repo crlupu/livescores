@@ -12,7 +12,7 @@ import org.springframework.web.bind.annotation.RequestMapping;
 import java.util.List;
 
 @Controller
-@RequestMapping("/match")
+@RequestMapping("/matches")
 @AllArgsConstructor
 public class MatchController {
     MatchService matchService;

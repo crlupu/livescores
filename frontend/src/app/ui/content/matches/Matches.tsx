@@ -1,4 +1,4 @@
-import Calendar from "./Calendar";
+import Calendar from "../calendar/Calendar";
 import MatchList from "./MatchList";
 
 export default function Matches() {

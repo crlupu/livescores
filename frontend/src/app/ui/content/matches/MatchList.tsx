@@ -10,7 +10,7 @@ export default function MatchList() {
     }, [])
     return (
         <div>
-             {leagues.map(league => <div key={league.id}>{league.name}</div>)}
+             {leagues?.map(league => <div key={league.id}>{league.name}</div>)}
         </div>
     )
 }
