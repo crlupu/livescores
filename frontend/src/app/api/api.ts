@@ -1,17 +1,16 @@
 import {Simulate} from "react-dom/test-utils";
-import error = Simulate.error;
 
 const api = {
     getLeagues,
     getMatches
 }
 
-async function getLeagues() {
-    return getRequest("leagues/all");
+async function getLeagues(date: Date | undefined) {
+    return date ? getRequest("leagues/all?date=" + date.toISOString().slice(0, 10)) : getRequest("leagues/all");
 }
 
-async function getMatches() {
-    return getRequest("matches/all");
+async function getMatches(date: Date | undefined) {
+    return date ? getRequest("matches/all?date=" + date.toISOString().slice(0, 10)) : getRequest("matches/all");
 }
 
 async function getRequest(requestPath: string) {
