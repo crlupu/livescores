@@ -1,9 +1,9 @@
 package com.lupu.highligts.service;
 
-import com.lupu.highligts.repository.Match;
+import com.lupu.highligts.entity.Match;
 
 import java.util.List;
 
 public interface MatchService {
-    public List<Match> getMatches();
+    List<Match> getMatches(Long leagueId, String date);
 }

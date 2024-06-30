@@ -14,7 +14,7 @@ export default function DatePicker({onCloseClick, selectedDate, updateSelectedDa
     const [calendarDate, setCalendarDate] = useState(selectedDate);
 
     return <div className="fixed left-0 top-0 py-3 px-2 w-full z-10">
-        <div className="bg-green rounded-lg">
+        <div className="bg-primary rounded-xl">
             <Image className="pr-1 pt-1 ml-auto" src={closeIcon} alt="close icon" width={28} height={28} onClick={onCloseClick}/>
             <MonthPicker
                 setCalendarDate={(date: Date) => setCalendarDate(date)}

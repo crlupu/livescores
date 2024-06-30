@@ -1,7 +1,6 @@
-package com.lupu.highligts.repository;
+package com.lupu.highligts.entity;
 
 import jakarta.persistence.Entity;
-import jakarta.persistence.GeneratedValue;
 import jakarta.persistence.Id;
 import lombok.AllArgsConstructor;
 import lombok.Data;

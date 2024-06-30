@@ -14,7 +14,11 @@ type Match = {
 
 type MatchState = {
     clock: number,
-    score: string
+    score: Score
+}
+
+type Score = {
+    current: string
 }
 
 type Team = {

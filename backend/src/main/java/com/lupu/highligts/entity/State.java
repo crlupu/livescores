@@ -1,4 +1,4 @@
-package com.lupu.highligts.repository;
+package com.lupu.highligts.entity;
 
 import jakarta.persistence.Embeddable;
 import lombok.Data;

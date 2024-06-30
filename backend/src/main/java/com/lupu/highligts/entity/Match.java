@@ -1,12 +1,14 @@
-package com.lupu.highligts.repository;
+package com.lupu.highligts.entity;
 
-import jakarta.persistence.*;
+import jakarta.persistence.Column;
+import jakarta.persistence.Entity;
+import jakarta.persistence.Id;
+import jakarta.persistence.ManyToOne;
 import lombok.AllArgsConstructor;
 import lombok.Data;
 import lombok.NoArgsConstructor;
-import org.springframework.format.annotation.DateTimeFormat;
 
-import java.util.Date;
+import java.time.Instant;
 
 @Entity
 @Data
@@ -22,8 +24,8 @@ public class Match {
     @ManyToOne
     private Team awayTeam;
 
-    @DateTimeFormat
-    private Date Date;
+    @Column
+    private Instant date;
 
     @ManyToOne
     League league;

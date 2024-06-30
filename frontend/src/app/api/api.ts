@@ -1,21 +1,22 @@
-import {Simulate} from "react-dom/test-utils";
+import {DateValue} from "@nextui-org/react";
 
 const api = {
     getLeagues,
     getMatches
 }
 
-async function getLeagues(date: Date | undefined) {
-    return date ? getRequest("leagues/all?date=" + date.toISOString().slice(0, 10)) : getRequest("leagues/all");
+async function getLeagues(date: DateValue) {
+    return getRequest("leagues/all?date=" + date.toString().slice(0, 10));
 }
 
-async function getMatches(date: Date | undefined) {
-    return date ? getRequest("matches/all?date=" + date.toISOString().slice(0, 10)) : getRequest("matches/all");
+async function getMatches(leagueId: string, date: DateValue) {
+    console.log(date.toString().slice(0, 10));
+    return getRequest(`matches/all?leagueId=${leagueId}&date=${date.toString().slice(0, 10)}`);
 }
 
 async function getRequest(requestPath: string) {
     try {
-        const res = await fetch(`http://localhost:8080/${requestPath}`)
+        const res = await fetch(`http://192.168.3.2:8080/${requestPath}`)
         if (!res.ok) {
             console.log('Failed to fetch data');
         }
